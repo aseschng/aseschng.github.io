@@ -1,3 +1,0 @@
-rm *.html
-xsltproc --xinclude ./mathbook/xsl/mathbook-html.xsl default.xml
-

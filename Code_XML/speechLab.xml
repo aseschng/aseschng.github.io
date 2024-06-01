@@ -7,21 +7,36 @@
 
         <introduction>
             <p>The speech and language research group in SCSE was founded in 2007 by Chng Eng Siong and
-            <url href="http://www.colips.org/~eleliha/"><c>Prof Li Haizhou</c></url> (now in NUS, Singapore). 
-            The group is now situated within <url href="https://maps.ntu.edu.sg/maps#q:MICL"><c>Media and Interactive Computing Lab</c></url> in SCSE. We also founded the <url href="https://makerspace.aisingapore.org/do-ai/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF in 2018.
+            <url href="http://www.colips.org/~eleliha/"><c>Prof Li Haizhou</c></url> (now in CUHK-Shenzen, China). 
+            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://makerspace.aisingapore.org/do-ai/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
             </p>
         </introduction>
 
         <subsection>
             <title>Research Focus</title>
             <p> Our research interest is primarily speech and language processing, classifications using ML:</p>
-            <ol label="a">     
-                <li>Code-switch speech recognition</li>
-                <li>Robust Large vocabulary continuous speech recognition and Keyword spotting</li>
-                <li>Speech enhancement: speaker extraction, denoising, feature enhancement, overlapping speech extraction</li>
-                <li>Speaker identification and speaker diarization</li>
-                <li>Towards Speech Understanding (ChatBot) - some aspects of NLP such as topic detection, name entity recognition</li>
-                <li>Audio event and scene classifications</li>
+            <ol label="1">     
+                <li> <c>ASR and LLM</c>
+                <ol label="a">     
+                    <li>Using LLM to improve ASR by generative error correction: see <url href="https://arxiv.org/pdf/2309.15701.pdf"><c>Hyporadise</c></url></li>
+                    <li>Code-switch multi-lingual speech recognition: see <url href="https://arxiv.org/abs/1811.09021"><c>Audio to Byte</c></url></li>
+                    <li>Robust Large vocabulary continuous speech recognition: joint end-to-end ASR with speech enhancement module, wave2vec2, speaker extraction</li>
+                    <li>Speech enhancement: speaker extraction, denoising, feature enhancement, overlapping speech extraction</li>
+                    <li>Faster decoding with end-to-end and real time android based decoders</li>
+                    <li>Tranfer Learning: from large trained acoustic model (16KHz) to  8KHz models via transfer learning</li>
+                   </ol>
+                </li>
+                <li> <c>Classification</c>
+                <ol label="a">     
+                    <li>Noisy Audio event and scene classifications, Audio captioning <url href="http://dcase.community/challenge2020/task-automatic-audio-captioning"><c>DCase</c></url></li>
+                <li>Speaker identification and speaker diarization: diarization, VAD, and speaker extraction issues, see <url href="https://arxiv.org/abs/2010.11458"><c>Microsoft diarization approach</c></url></li>
+                <li>Deep Fake Detection (and generation)<url href="https://paperswithcode.com/task/deepfake-detection"><c>Link</c></url></li>
+                </ol>
+                </li>
+
+                <li><c>Towards Speech Understanding</c> - some aspects of NLP such as topic detection, name entity recognition, text normalization. See a demo of our ASR for ATC speech with NER highlighting.
+                <url href="https://www.youtube.com/watch?v=CFsaeK6vP7k"><c>ATC with NER</c></url>
+                </li>
             </ol>
 
 
@@ -66,6 +81,11 @@
                 <li><p>Speech indexing using our MAGOR system (Code-switch English/Mandarin and Malay system)
                 <image source = './images/magor_picture.jpg' /></p> </li>
 
+                <li><p>See a demo of our ASR for ATC speech with NER highlighting.
+                    <url href="https://www.youtube.com/watch?v=CFsaeK6vP7k"><c>ATC with NER</c></url>
+                    <image source = './images/ATC_Demo.jpg' />
+                
+            </p></li>
 
             </ol>
         </subsection>            
@@ -84,24 +104,42 @@
 
             </ol>
         </subsection>            
+
+
+        <subsection>
+        		<title>Some of our recent works in git</title>
+        		<ol label = '1'>
+        				<li><p>PhD Student Hou Nana's work in NTU (2018~2021), single channel speech enhancement, <url href="https://github.com/nanahou/Awesome-Speech-Enhancement"><c>github</c></url></p></li>
+        				<li><p>PhD Student Xu Chenglin's work in NTU (2015~2020), single channel speech separation/extration,<url href="https://github.com/xuchenglin28/"><c>github</c></url></p></li>
+        				<li><p>Intern GeMeng's work (intern from Tianjin 2020~2021), tutorial speech separation, <url href="https://github.com/gemengtju/Tutorial_Separation"><c>github</c></url></p></li>
+        				<li><p>Intern Shangeths work (intern from BITS) (2020 Aug- 2021 June), Accent, Age, Height classification<url href="https://www.dropbox.com/s/z834va4hvfngzo8/Shangeth%E2%80%99s%20Work%20at%20Speech%20Lab%2C%20NTU%20Singapore.pdf?dl=0"><c>Pdf link</c></url></p></li>
+        				<li><p>MSAI student Samuel Samsudin (2020~2021), emotion detection,
+                            <url href="https://github.com/samsudinng/speech_emo_recognition.git"><c>github depository</c></url>, 
+                        <url href="https://www.kaggle.com/samuelsamsudinng/iemocap-emotion-speech-database"><c>kaggle iEmoCap</c></url></p></li>
+                        <li><p>Language Identification by EEE's PhD student Liu Hexin (2021) <url href="https://github.com/Lhx94As/Awesome-Spoken-Language-Identification"><c>github link</c></url></p></li>                       
+                        <li><p>Intern Shashank Shirol's work (2020 Jan-June), using GAN to create noisy speech, <url href="https://github.com/shashankshirol/GeneratingNoisySpeechData"><c>github depository</c></url></p></li>
+        		</ol>
+        </subsection>
+
     </section>
             
 
     <section xml:id="my_collaborator">
            <title>Collaborators</title>
             <p><ol label="1">
-            <li><url href="http://ece.nus.edu.sg/hlt/"><c>Prof Li Haizhou</c></url>, NUS, Singapore and AISG Speech Lab.</li>
+            <li><url href="https://sds.cuhk.edu.cn/en/teacher/498"><c>Prof Li Haizhou</c></url>, CUHK and AISG Speech Lab.</li>
             <li><url href="http://csee.hnu.edu.cn/people/zhongxionghu"><c>Prof Zhong Xionghu</c></url>, Hunan University, China. Microphone Array DOA and diarization.</li>
             <li><url href="https://www.linkedin.com/in/bin-ma-b278a44b/"><c>Dr Ma Bin</c></url>, Alibaba. Robust End-to-End Code switch ASR.</li>
             <li><url href="https://www.xju-aslp.cn/"><c>Prof Huang Hao</c></url>, Xinjiang University. PhD students exchange -  Code switch ASR and classification.</li>
             <li><url href="http://www.nwpu-aslp.org/lxie/"><c>Prof Xie Lei</c></url>, Northwestern Polytechnic, Xian, China. PhD students exchange - ASR.</li>
             <li><url href="http://cic.tju.edu.cn/faculty/wanglongbiao/experiences.html"><c>Prof Wang Longbiao</c></url>, Tianjin University, China. PhD students exchange - Emotion recognition</li>
-            <li><url href="https://www.linkedin.com/in/rafaelbanchs/"><c>Dr Raphael Banchs</c></url>, ChatBot.</li>
-            </ol></p>
+            <li><url href="https://gr.xjtu.edu.cn/web/xiwei"><c>Prof XI Wei</c></url>, Xian JiaoTong University, China. CSC PhD students exchange - self-supervised learning </li>
+            </ol>        </p>
 
     <subsection xml:id="Past_collaborator">
            <title>Past Collaborators</title>
             <p><ol label="1">
+            <li><url href="https://www.linkedin.com/in/rafaelbanchs/"><c>Dr Raphael Banchs</c></url>, ChatBot.</li>
             <li><url href="https://chl.ece.gatech.edu/"><c>Prof Lee Chin Hui</c></url>, Robust ASR (~2008-2015) </li>
             <li><url href="https://www.uni-bremen.de/en/csl/team/staff/prof-dr-ing-tanja-schultz/"><c>Prof Tanja Schultz</c> (~2008-2013)</url>, Code-switch ASR</li>
             </ol></p>
@@ -113,22 +151,29 @@
     <section xml:id="my_Staff">
             <title>Staff</title>
             <p><ol label="1">
-            <li><url href="https://www.linkedin.com/in/haihua-xu-42757419"><c>Dr Xu Haihua</c></url>, Senior Research Fellow, Robust LVCSR, keyword spotting</li>
-            <li><url href="https://www.linkedin.com/in/tungpv85/"><c>Dr Pham Van Tung</c></url>, Research Fellow, Speech recognition, end-to-end, keyword spotting</li>
-            <li><url href="https://www.linkedin.com/in/RajendraPrasadSirigina9b691859/"><c>Dr Rajendra Prasad Sirigina</c></url>, Research Fellow, Time series </li>
-            <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga></c></url>, sentence unit detection and full-stack, backend.</li>
-            <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Speaker verification</li>
-            <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack and chatBot</li>
-            <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun</c></url>, full-stack development</li>
-            <li><url href="https://www.linkedin.com/in/duc-mai-trung-1410/"><c>Mai Trung Duc</c></url>, full-stack and mobile app development   </li>
-            <li><url href="https://www.linkedin.com/in/maduo-843771197/"><c>Ma Duo</c></url>, LVCSR and classification</li>
-            <li><url href="https://www.linkedin.com/in/nabilah-ismail-6b3aa0164"><c>Nabilah Ismail</c></url>, Corpus Development</li>
 
+            <li><url href="https://www.linkedin.com/in/hexin-liu-2a7a91212/?originalSubdomain=sg"><c>Dr Liu Hexin</c></url>,research fellow (LLM)</li>
+            <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack and chatBot</li>
+            <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga</c></url>, sentence unit detection and full-stack, backend.</li>
+            <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Speaker verification and DNN</li>
+            <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (AISG-NTU)</c></url>, full-stack development</li>
+            <li><url href="https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn"><c>Peng Yizhou (AISG-NUS)</c></url>, speech research</li>
+            <li><url href="https://www.linkedin.com/in/nabilah-ismail-6b3aa0164"><c>Nabilah Ismail</c></url>, Corpus Development</li>
+            <li><url href="https://www.linkedin.com/in/nurshahidahj/"><c>Nur Shahidah Binte Jamaludin</c></url>, corpus development and linguistic support</li>
             </ol></p>
 
     <subsection xml:id="Past_Staff">
     <title>Past Staff</title>
     <p><ol label="1">
+            <li><url href="https://www.linkedin.com/in/RajendraPrasadSirigina9b691859/"><c>Dr Rajendra Prasad Sirigina</c></url>, Research Fellow, Time series, 2019 Feb-> 2021 June </li>
+
+            <li><url href="https://www.linkedin.com/in/maduo-843771197/"><c>Ma Duo (AISG-NUS) </c></url>, LVCSR and classification, 2019-2021</li>
+
+            <li><url href="https://www.linkedin.com/in/tungpv85/"><c>Dr Pham Van Tung</c></url>, Research Fellow, Speech recognition, end-to-end, keyword spotting, Jan 2012-2021 May</li>
+
+            <li><url href="https://www.linkedin.com/in/haihua-xu-42757419"><c>Dr Xu Haihua</c></url>, Principal Research Fellow, Robust LVCSR, keyword spotting, Feb 2012-2021 March</li>
+            <li><url href="https://www.linkedin.com/in/duc-mai-trung-1410/"><c>Mai Trung Duc</c></url>, full-stack and mobile app development, Mar 2019-Dec2021</li>
+
             <li><url href="https://www.linkedin.com/in/xuchenglin28"><c>Xu Chenglin</c></url>, PhD (2020), 
             Single Channel Multi-talker Speech Separation with Deep Learning</li>
             <li><url href="https://www.linkedin.com/in/zengzhiping/"><c>Zeng Zhiping</c></url>, LVCSR, March 2018- April 2020</li>
@@ -151,21 +196,82 @@
 
 
     <section xml:id="my_Students">
-            <title>Graduate Students</title>
+            <title>Current PhD and Graduate Students</title>
             <p><ol label="1">
-            <li><url href="https://www.linkedin.com/in/andrew-koh-5464a5118/"><c>Andrew Koh Jin Jie</c></url>, question and answer for chatbot (reg Aug 2019, PhD)</li>
-            <li><url href="https://www.linkedin.com/in/alanwuha/"><c>Alan Tan Lai Chian></c></url>,Monitoring Air Traffic Control Dialogue (reg Aug 2019, PhD)</li>
+            <li><url href="https://www.linkedin.com/in/haoyang-li-4baaa3201/"><c>Li Haoyang</c></url>, Neural Text to Speech (reg Aug 2023, Alibaba-PhD)</li>
+            <li><url href="https://www.linkedin.com/in/ductuantruong/"><c>Tuan Truong Duc</c></url>, Robust Speaker verification under noisy and short duration scenario (reg Jan 2023, PhD)</li>
+            <li><url href="https://www.linkedin.com/in/fabian-ritter-gutierrez-9ab4317a/"><c>Fabian Ritter Gutierrez</c></url>,End2End ASR for Language Learning (reg Aug 2022, AStar scholar) (co-supervised with AStar: Nancy Chen</li>
+            <li><url href="https://www.linkedin.com/in/paniquex/"><c>Nikita Kuzmin</c></url>, Disentaglement for Speaker verification and privacy (reg Aug 2022, AStar scholar) (co-supervised with AStar: Lee Kong Aik</li>
+
+            
+            <li><url href="https://www.linkedin.com/in/aaron-kwok-b1163b1b4/"><c>Kwok Chin Yuen</c></url>, Acoustic modelling of targetted domain speech (Children's speech acoustic modelling) (reg Aug 2021, MEng, converted to PhD program, Aug 2022)</li>
+            <li><url href="https://www.linkedin.com/in/yuchen-hu-704870195/"><c>Hu Yuchen 胡宇晨 </c></url>, robust End-to-End ASR (reg Aug 2021, MEng, converted to PhD program, Aug 2022). 
+        <url href="https://www.dropbox.com/scl/fi/4max4uevisy2agmz29or0/2023_HuYuchenQE_QE_presentation.pptx?rlkey=bbrrdv0h042wi4b23gah2r3ct"><c>QE Slides (2023)</c></url>,
+        </li>
+            <li><url href="https://www.linkedin.com/in/yip-jia-qi/"><c>Yip Jia Qi</c></url>, Neural Networks for Speaker Extraction and its interdisciplinary applications (reg Aug 2021, Alibaba PhD)</li>
+            <li><url href="https://www.linkedin.com/in/dianwen-ng-34691a129/"><c>Ng Dian Wen</c></url>, Domain adaptation for End-to-End ASR (reg Jan 2021, Alibaba PhD)</li>
+            <li><url href="https://www.linkedin.com/in/chen-chen-4bb7231b8/"><c>Chen Chen</c></url>, End-to-End ASR (reg Jan 2021, PhD)</li>
+            <li><url href="https://sites.google.com/view/hqzou/"><c>Zou HeQing</c></url>, Multimodal Machine Learning (reg Jan 2021, PhD) (Co-supervisor) (Sup:Deepu Rajan)</li>
+        
             <li><url href="https://www.linkedin.com/in/rae-jia-xin-koh-9b10b3105/"><c>Rae Koh Jia Xin</c></url>, Singapore English (reg Aug 2019, PhD)</li>
-            <li><url href="https://www.linkedin.com/in/yingzhuzhaophd/"><c>Zhao Yingzhu></c></url>, End-to-End speech recognition (reg Jan 2019, PhD)</li>
-            <li><url href="https://www.linkedin.com/in/nana-hou-592a80127/"><c>Hou Nana></c></url>, Robust LVCSR for air traffic control speech (reg Jan 2017, PhD)</li>
-            <li><url href="https://www.linkedin.com/in/zhongwei-li-1b22075/"><c>Li Zhongwei</c></url>, Name and Digit Entity Recognition for simultaneous translation (partTime PhD, reg 2016)</li>
-            <li><url href="https://www.linkedin.com/in/fuzhao-xue-6410561a6/?originalSubdomain=cn"><c>Xue Fuzhao</c></url>, Information extraction from text (MEng, reg 2020)</li>
-            </ol></p>
+            </ol></p>            
+
+     <subsection xml:id="my_MSAI_Students">
+         <title>Current MEng and Masters Program Students</title>
+         <p><ol label="1">
+            <li><url href="https://www.linkedin.com/in/xiaokaiqin/"><c>Qin Xiaokai</c></url> (2023 Aug~), MSAI student, Deepfake audio generation using voice conversion</li>
+            <li><url href="https://in.linkedin.com/in/adnan-azmat-496000153"><c>Azmat Adnan</c></url> (2023 Aug~), MSAI student, DNN Approaches for noisy speech diarization </li>
+            <li><c>Zhuo Ning</c> (2023 Aug~), Masters Cybersecurity student, Deep Fake Corpus developmenet and detection </li>
+             </ol>
+            </p></subsection>
+
+
+            <subsection xml:id="my_collaborator_Students">
+            <title>Collaborating graduate Student</title>
+            <p><ol label="1">
+            <li><c>Yang Yuhang</c> (2023 June~, PhD student (Hunan University), China), LLM ASR</li>
+            <li><url href="https://www.linkedin.com/in/xiangyu-zhang-a0735b194/"><c>Zhang Xiangyu</c></url> (2023 June~, PhD student (UNSW, Australia), Depression classification</li>
+            <li><c>Chen Weiguang</c> (2022 June~, PhD student (Hunan University), Diarization using multi-channel approaches</li>
+            </ol>
+            </p>
+
+            </subsection>
+
+            <subsection xml:id="my_collaborator_Students_China">
+            <title>Collaborating graduate Student (China)</title>
+            <p>
+            Every year, we will host graduate students from China. We have hosted students from China Scholarship Council (program), 
+            Xinjiang University, Tianjin University and Northwestern University. The visits have been very rewarding, and many publications have come out of these visits.
+            We hope to see more such outstanding students, so do apply! </p>
+
+            <p><ol label="1">
+               <li><url href="https://www.linkedin.com/in/yuquan-le-b358462a4/"><c>Le Yuquan</c></url> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), LLM for Legal</li>
+               <li><c>Luo Juan</c> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), Audio event detection and classification</li>
+                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
+                <li><c>Zhao Yang</c> (2021 Oct ~2023 Oct, CSC visitor, PhD student Xian JiaoTong Uni, China), Semi/Self supervised representation for speech recognition</li>
+                <li><c>Peng Yizhou</c> (2020 June ~2022 June, Masters student Xinjiang, China), ASR development (Kaldi and End2End)</li>
+                <li><c>Yang Yuhang</c> (2021 June~2023 June, Masters student Xinjiang, China), WeNet ASR, End2End ASR</li>
+                <li><c>Guo Yachao</c> (2021 June~2023 June, Masters student Xinjiang, China), End2End Hotword LM Adaptation</li>
+            </ol>
+            </p></subsection>
+
+
 
     <subsection xml:id="Past_PhD_Students">
     <title>Past PhD Students</title>
     <image source = './images/recentPhDGrad.jpg' /> 
-    <p><ol label="1" >
+    <p><ol label="1" > 
+        <li><url href="https://www.linkedin.com/in/andrew-koh-5464a5118/"><c>Andrew Koh Jin Jie</c></url>, Sequence to Sequence Machine Learning (reg Aug 2019, PhD, submitted Thesis)</li>
+
+        <li><url href="https://www.linkedin.com/in/yingzhuzhaophd/"><c>Zhao Yingzhu</c></url>, End-to-End speech recognition (reg Jan 2019, PhD, graduated May 2023). <url href="https://youtu.be/6vCzAem8Hbo"><c>Oral Defence rehearsal</c></url>
+    <url href="https://www.dropbox.com/s/x9hcwk383htwlvl/Yingzhu_oral_SlidesApr2023.pptx?dl=0"><c>PhD Slides</c></url>
+    <url href="https://www.dropbox.com/s/1yf2ajg86777bzq/2023_April_thesis_ZhaoYingzhu.pdf?dl=0"><c>PhD report</c></url>
+    <url href="https://www.dropbox.com/s/26as7mwlafg0akg/ZhaoYingZhu_PhDThesis_Apr2023Latex.zip?dl=0"><c>PhD latex folder</c></url>
+</li>
+      
+
+        <li><url href="https://www.linkedin.com/in/nana-hou-592a80127/"><c>Hou Nana</c></url>, Robust LVCSR for air traffic control speech 
+        (reg Jan 2017, PhD, submitted Jan 2022)</li>
 
 	    <li><url href="https://www.linkedin.com/in/xuchenglin28"><c>Xu Chenglin</c></url>,
  	    <url href="https://www.dropbox.com/s/as78r4txv0z27kc/ChenglinPhDDefenceSlidesAug2020.pptx?dl=0"><c>PhD Slides</c></url>
@@ -217,6 +323,13 @@
     <subsection xml:id="Past_MEng_Students">
     <title>Past MEng Students</title>
     <p><ol label="1">
+        <li><url href="https://www.linkedin.com/in/tanmay-surana-118a79192/"><c>Tanmay Surana</c></url>, <c>Deep Learning-based Text Augmentation for Named Entity Recognition</c> (reg Aug 2021, MEng, completed Oct 2023)</li>
+
+        <li><url href="https://www.linkedin.com/in/chaiyasait/"><c>Prachaseree Chaiyasait</c></url>, Adaptation of Language Models via Text Augmentation (reg Aug 2021, MEng, submitted Jul 2023, completed Oct 2023)</li>
+
+        <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun</c></url>, Name entity recognition for chatbot applcications(MEng, started Aug 2020, submitted thesis Aug 2022)</li>
+
+        <li><url href="https://www.linkedin.com/in/fuzhao-xue-6410561a6/"><c>Xue Fuzhao</c></url>, Information extraction from text (MEng 2020)</li>
         <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url>, (MEng 2020), Anti-Spoofing Techniques for Robust
         Speaker Verification<url href="https://www.dropbox.com/s/tjhprq3dvj79hjm/2020_LimZhiHao_Robust_Speaker_Verification.pdf?dl=0"><c>Thesis (2020)</c></url></li>
         <li><url href="https://www.linkedin.com/in/ngaho/"><c>Ho Thi Nga</c></url>, (MEng 2019), Sentence unit detection for automatic speech transcripts using lexical information</li>
@@ -226,26 +339,100 @@
         <li><url href="https://www.linkedin.com/in/terence-ng-70411320/"><c>Terrence Ng Wen Zheng</c></url>, 
         <url href="https://www.dropbox.com/s/2staf3jboruaozr/2014_MENG_TerrenceNgWenZheng.pdf?dl=0"><c>Thesis</c></url>,(MEng 2014), Sound Event recognition in home environment</li>
         <li><url href="https://www.linkedin.com/in/wenda-chen-6261732a/"><c>Chen Wenda</c></url>, (MEng 2014),Computer Assisted Language Learning</li>
-        <li><url href="https://www.linkedin.com/in/pckben/"><c>Ben Pham Chau Khoa</c></url>, (MEng 2014),Computer Assisted Language Learning
+        <li><url href="https://www.linkedin.com/in/pckben/"><c>Ben Pham Chau Khoa</c></url>,
             <url href="https://www.dropbox.com/s/tfvf6sx3wpb9eeb/2012_MEng_BenPhamChauKhoa.pdf?dl=0"><c>Thesis</c></url>,(MEng 2012), Robust VAD</li>
         <li xml:id="countGraduatedMEng"> Eugene Koh, (MEng 2009), Speaker Diarizaton</li>
     </ol></p>
     </subsection>
-    </section>
 
+    <subsection xml:id="Past_MSAI_Students">
+    <title>Past MSAI Students and Other collaboration students</title>
+    <p><ol label="1">
 
+                <li><c>Jiang Yufei</c> (2022 Aug~ 2023 Aug), MSAI (NTU), Adopting Neural Translation Model in Data Generation for Inverse Text Normalization</li>
+                <li><c>Liu Jiaxing</c> (2021 Oct ~2023 Oct, CSC visitor, PhD student Tianjin University, China), Multi-modal emotion recognition</li>
+                <li><c>Cheng Qi</c> (2021 Oct ~2022 Oct, CSC visitor, PhD student Harbin Engineering Uni, China), Graph Neural Network for Lattice rescoring</li>
 
+                 <li><url href="https://www.linkedin.com/in/samuel-samsudin-ng/"><c>Samuel Samsudin Ng</c></url>, (MSAI 2020-S1), Speech emotion recognition with AlexNet and Fully convolutional network,
+                <url href="https://www.dropbox.com/s/3ullgc88cfihj2e/2020_MSAI_Report_SamuelSamsudinNg.pdf?dl=0"><c>Sam's MSAI Thesis</c></url>,
+                <url href="https://github.com/samsudinng/speech_emo_recognition.git"><c>github depository</c></url>, 
+                <url href="https://www.kaggle.com/samuelsamsudinng/iemocap-emotion-speech-database"><c>kaggle iEmoCap</c></url>
+                </li>
+                <li><url href="https://www.linkedin.com/in/andy-cheung-a0847572/"><c>Cheung Chin Ka</c></url>, (MSAI 2020-S1), Acoustic Scene Classication with cutting edge hyperparameter tuning tool,
+                <url href="https://www.dropbox.com/s/0bpudw98ra4f80k/2020_msai-cheung-chin-ka-master-project-report.pdf?dl=0"><c>Andy's MSAI Thesis</c></url> </li>
+                <li><url href="https://www.linkedin.com/in/bozhong-sampson-liu/"><c>Liu Bozhong</c></url>, (MSAI 2020-S2), Wakeup keyword detection for far-field microphone array using end to end framework</li>
+        </ol></p></subsection></section>
+   
 
     <section xml:id="Past_Interns">
-    <title>Past (mainly undergraduate) Interns</title>
+    <title>Internship in Speech Lab@SCSE, NTU</title>
+
+
     <introduction>
-    The list is incomplete, we began to the tradition of taking pictures with the students from India about 2017,  there were many others. 
-    The pictures here mainly are undergraduate students, and details included inside. Students are invited here for six months to work with us. 
-    Pls send me an email about 8-9 months before start of internship, typically Jan or June each year for consideration).
+        <p>We have a tradition of hosting senior undergraduate students (final year) and graduate students (Masters and PhD) in our lab.</p>
+
+        <p>Typically we only host students who can work with us for 6 months or more in 2 sessions.
+            Session 1: Jan-June, Session 2: Jul->Dec each year.
+            During covid (it will be remote), and if NTU allows student to come
+            to Singapore, we will prefer you to be physically in our lab. 
+            Currently we only host students who are doing this as part of their course sanctioned by 
+            their school and its graded *so its not a personal arrangement*.
+        </p>
+
+       <p> To apply, you should be writing to us at least 1/2 year before the start of the attachment.
+        Kindly send me an email with a detailed cv. 
+        As we receive huge number of applicants, only shortlisted students will receive a response.
+        </p>
+
+        <p>
+        We have two tracks,
+        one for research and the other for development. For research, we expect students to have work with pyTorch, tensorflow, etc.
+        For development, we expect experiene with google summer of code, full stack experience.
+        During this internship, you will be actively working with our speech-team researchers on tasks such as implementing and 
+        realising state-of-the-art ML/DL techniques and deploying them for various tasks listed below:
+        </p>
+
+        <p>
+        <alert>Our current Research projects are:</alert></p>
+        <p>DNN and End-to-end approaches for speech audio processing and classification</p>
+        <p><ol label="1">
+            <li> Classification from Audio: Speaker profiling (age, height, weight, accent, emotion) classification, Audio Event classification (DCASE),
+             Speaker diarization and overlapping speech detection</li>
+             <li> Speech Enhancement and Audio processing:  Enhancing noisy speech to clean DNN approaches, Deep Fake Speech: Modifying audio eavefiles to target environment/speaker/ noise using GAN</li>
+         </ol></p>
+
+
+
+        <p><alert>Our current Development projects are:</alert></p>
+        <p><ol label="1">
+            <li>Terraform and cloud deployment of speech engine with scaling, auto-update, security and dashboard.</li>
+            <li>MAGOR - search and indexing speech, video and audio</li>
+            <li>Async speech recording and recognition Interface - recording and async update of speech recognised with update on name entity</li>
+            <li>Transcriptor - GUI for correction of erroneous recognised text</li>
+        </ol></p>
+
+        <p> Upon completion of the project, we expect a formal project report +    code repository, and if possible submit the work for publication.</p>
+        <p> Pls find attached a writeup by Shashank (2021 intern) onboarding help file, have a look.
+            <url href="https://www.dropbox.com/s/fq34mfqtmuvy42a/SpeechLab_Onboarding_Shshank_2021.pdf?dl=0"><c>Onboarding writeup by Shashank</c></url></p>
+    
+
+
     </introduction>
+
+
+    <p><alert> Current and Past Interns: </alert></p>
+
+    <p>   The list is incomplete, we began to the tradition of taking pictures with the students from India about 2017,  there were many others. 
+    The pictures here mainly are undergraduate students, and details included inside.  
+    </p>
+
     <p><ol label="1">
-            <li><url href="https://www.dropbox.com/s/6jncuc9srnekg3o/MICL_Interns_AugDec2020.pdf?dl=0"><c>Interns from 2020 (July-Dec) </c></url></li>
-            <li><url href="https://www.dropbox.com/s/qj1c3lytdy8b7mz/MICL_Interns_feb2020.pdf?dl=0"><c>Interns from 2020 (Jan-May) </c></url></li>
+            <li><url href="https://www.dropbox.com/scl/fi/h8q31r9gw2ck3d9l3a87l/2023_June_Dec_Interns.pdf?rlkey=vlyi0kkfg9mf7mo41c514l6u9"><c>2023 June~Dec(fully remote)</c></url></li>
+            <li><url href="https://www.dropbox.com/scl/fi/ix2zecra23egczjk83x43/Interns-Jan-June2023.pdf?rlkey=v1fddv3g0n5etibyqsbskndtc"><c>Some pictures of our group meetings with Interns from 2023(fully remote)</c></url></li>
+            <li><url href="https://www.dropbox.com/scl/fi/re9mcme80i63cnmefoqnl/Interns-2022.pdf?rlkey=tidhkiguwqmgjj6sm6wnaquxt"><c>Some pictures of our group meetings with Interns from 2022(fully remote)</c></url></li>
+            <li><url href="https://www.dropbox.com/s/qpbyp5yb8mxujcg/pic_2021.docx?dl=0"><c>Some pictures of our group meetings with Interns from 2021(fully remote)</c></url></li>
+            <li><url href="https://www.dropbox.com/s/6jncuc9srnekg3o/MICL_Interns_AugDec2020.pdf?dl=0"><c>Interns from 2020 (July-Dec) (fully remote)</c></url></li>
+            <li><url href="https://www.dropbox.com/s/qj1c3lytdy8b7mz/MICL_Interns_feb2020.pdf?dl=0"><c>Interns from 2020 (Jan-May) (our last group before we could not have students in Singapore)</c></url></li>
             <li><url href="https://www.dropbox.com/s/eu0ewshlvcpu9xp/MICL_Interns_Nov%202019_Grp1.pdf?dl=0"><c>Interns from 2019 (Nov, Grp1)</c></url></li>
             <li><url href="https://www.dropbox.com/s/cbeqnrd5vu7nl9s/MICL_Interns_Nov%202019_Grp2.pdf?dl=0"><c>Interns from 2019 (Nov, Grp2)</c></url></li>
             <li><url href="https://www.dropbox.com/s/e7t42elpkkepxla/MICL_Interns_July2019.pdf?dl=0"><c>Interns from 2019 (Jul)</c></url></li>

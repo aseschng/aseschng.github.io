@@ -6,11 +6,20 @@
 
             <sidebyside widths = "85% 15%" valign="middle">
                     <p>I joined NTU in 2003, and am currently an Associate Professor in the 
-                    <url href="http://scse.ntu.edu.sg/Pages/Home.aspx"><c>School of Computer Science and Engineering</c></url>, Singapore. Concurrently, I am Asst Chair of Graduate Students for SCSE since Jan 2019.
+                    <url href="http://scse.ntu.edu.sg/Pages/Home.aspx"><c>School of Computer Science and Engineering</c></url>, Singapore.  
                     </p>
                     <image source = './images/es2_small.jpg' /> 
             </sidebyside>
 
+    <p>
+    My main research interest is in speech and lanaguge processing, and I am the PI of 
+                    <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> with interest to develop robust code-switch ASR using LLM capabilities.
+            Other research interests include: NLP and machine learning. To date, I have been Principal Investigator of several research grants awarded by Alibaba, Webank, AISG, NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$13 million under the 
+        <xref ref="speechLab_intro" text="custom"><em>Speech and Language Laboratory</em></xref>
+         at SCSE,  <xref ref="countGraduatedPhD">supervised (PhD Students)=</xref>
+         and   <xref ref="countGraduatedMEng">supervised (MEng Students)=</xref>.
+        Publications include 2 edited books and over ~150 journal/conference papers.
+        </p>
 
         <p>Working experience prior to joining NTU: 
             <url href="http://www.knowles.com/"><c>Knowles Electronics</c></url> (2001-2002), 
@@ -21,34 +30,34 @@
 
         <p>Education: received both BEng (Hons) and PhD from  <url href="https://www.ed.ac.uk"><c>Edinburgh University></c></url>,  
         U.K. in 1991 and 1996 respectively. PhD research <url href="https://www.dropbox.com/s/jo7xxtc10t2bq6e/1996_ces_PhDThesis.pdf?dl=0"><c>thesis</c></url> was supervised by
-        <url href="http://www.research.ed.ac.uk/portal/bernie"><c>Bernard Mulgrew</c></url>,
+        <url href="https://www.eng.ed.ac.uk/about/people/prof-bernard-mulgrew"><c>Bernard Mulgrew</c></url>,
         <url href="https://en.wikipedia.org/wiki/Peter_Mitchell_Grant"><c>Peter Grant</c></url>
-        and <url href="http://users.ecs.soton.ac.uk/sqc/"><c>Chen Sheng</c></url> </p>
+        and <url href="https://www.southampton.ac.uk/people/5wy8nv/professor-sheng-chen"><c>Chen Sheng</c></url> </p>
 
-        <p>Current research interests include: NLP, machine learning, speech and signal processing. To date, been Principal Investigator of several research grants awarded by NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$9 million under the 
-        <xref ref="speechLab_intro" text="custom"><em>Speech and Language Laboratory</em></xref>
-
-         at SCSE,  <xref ref="countGraduatedPhD">supervised (PhD Students)=</xref>
-         and   <xref ref="countGraduatedMEng">supervised (MEng Students)=</xref>.
-        Publications include 2 edited books and over 100 journal/conference papers.
-        </p>
-
+    
         <p>Served as the publication chair for 5 international conferences (Human Agent Interaction 2016, INTERSPEECH 2014, APSIPA-2010, APSIPA-2011, ISCSLP-2006), and have been an associate editor for IEICE (special issue 2012), a reviewer for Speech Communications, Eupsico, IEEE Trans Man,System and Cybernectics Part B, Journal of Signal Processing System, ACM Multimedia Systems, IEEE Trans Neural Network, IEEE Trans CAS-II, and Signal Processing.
         </p>
+
+        <p>I am a PhD supervisor and PI for 4 AIR projects in Alibaba (
+达摩院) NTU-Joint Research institute (speech research)
+           <url href="https://damo.alibaba.com/labs/speech/"><c>Speech research</c></url></p>
+
 
         <p>Was the recipient of the Tan Chin Tuan fellowship (2007) to visit Tsinghua University, the JSPS travel grant award (2008) to visit Tokyo Institute of Technology, 
             and the Merlion Singapore-France research collaboration award in 2009.</p>
 
         <p>What others say about me:
             <url href="https://www.linkedin.com/in/eng-siong-chng-a61a92/?originalSubdomain=sg"><c>LinkedIn</c></url>,
-            <url href="https://orcid.org/0000-0001-6257-7399"><c>ORCID id</c></url>,
-            <url href="https://www.scopus.com/authid/detail.uri?authorId=24474196000"><c>Scorpus</c></url>,
             <url href="https://scholar.google.com/citations?user=FJodrCcAAAAJ"><c>Google Scholar</c></url>,
-            <url href="https://academic.microsoft.com/#/detail/2275699325"><c>Microsoft Academic</c></url>
-            <url href="http://www.researcherid.com/rid/A-3667-2011"><c>ResearcherID</c></url>
+            <url href="https://www.semanticscholar.org/author/Chng-Eng-Siong/1742722"><c>Semantic Scholar</c></url>
+            <url href="https://research.com/u/eng-siong-chng"><c>Research.com</c></url>
         </p>
         
-        <p>Lastly, some <url href="https://www.dropbox.com/s/85ozap9ftydhqrq/CES_WebMain_Images.pdf?dl=0"><c>pictures of the team and various bikes rode</c></url>  across the years.
+        <p>Lastly, some <url href="https://www.dropbox.com/s/85ozap9ftydhqrq/CES_WebMain_Images.pdf?dl=0"><c>pictures of the team and various bikes rode</c></url>  across the years. Some more recent pictures (2019,2020)
+        <url href="https://www.dropbox.com/s/166czh4ggshnhu0/pictures_2019_2020.pdf?dl=0"><c>pictures from ICASSP 2019, and team 2020</c></url>.
+        2022 (ICASSP)
+        <url href="https://www.dropbox.com/s/wjuevqmlqaok2uz/Grp_ICASSP_2022.docx?dl=0"><c>pictures from ICASSP 2022 and HCM</c></url>.
+
         </p>
 
 
@@ -58,9 +67,9 @@
          <ul>
              <li>       My office: Blk N4, 02c-96, Nanyang Avenue. School of Computer Science and Engineering.
                 Nanyang Technological University,Singapore 639798 </li>
-             <li> Map:  <url href="https://maps.ntu.edu.sg/maps#q:SCSE"><c>SCSE MapLink</c></url></li>
-         <li>   Q: <url href="http://www.ntu.edu.sg/has/Transportation/Pages/GettingToNTU.aspx"><c>How to get to NTU?</c></url></li>
-          <li> Q: <url href="http://maps.ntu.edu.sg/maps#q:car%20park%20f"><c>Nearest carpark to N4?</c></url></li>
+             <li> Map:  <url href="http://maps.ntu.edu.sg"><c>SCSE Block N4 MapLink</c></url></li>
+         <li>   Q: <url href="https://www.ntu.edu.sg/life-at-ntu/visiting-ntu"><c>How to get to NTU?</c></url></li>
+          <li> Q: <url href="http://maps.ntu.edu.sg"><c>Nearest carpark to Blk N4 is Car Park F</c></url></li>
         <li>Email: aseschng at ntu dot edu dot sg, </li>
         <li>Tel : +65-6790-6200, Fax: +65-6792-6559</li>
 
@@ -70,7 +79,7 @@
         
 
 <p>Visited by <url href="https://clustrmaps.com/site/r77q"><c>ClusterMap</c></url></p>
-<p>Last Updated: 06 DEC 2020</p>
+<p>Last Updated: 26 April 2021</p>
 <p>This web page was produced using <url href="https://pretextbook.org/index.html"><c>PreTeXt</c></url></p>
 </introduction>
 </chapter>
