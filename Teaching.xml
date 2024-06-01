@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="Teaching">
+    <title>Teaching Activities</title>
+
+    <section xml:id="GraduateStudents">
+        <title>Graduate Students</title>
+
+        <p>
+        This section provides some tips for incoming graduate students - from 
+        thesis writing, useful tools, guide to responding to examiners, etc.</p>
+
+        <p>
+        If you are feeling lost about research, or doing research for the first time,
+        heres a short note that may help
+        <url href="https://www.dropbox.com/s/013i0zaj2rr5b6b/CES_AdviseToNewResearchStudents.docx?dl=0"><c>Tips to new research students.</c></url>
+        You can also read about JHU's Prof Dredze's guide for
+        <url href="https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_2.pdf"><c>
+            "Guide on How to be a Successful PhD Student"</c></url>
+
+    </p>
+
+
+	    <subsection xml:id="SCSE_Requirements">
+        <title>SCSE Thesis formatting requirements</title>
+
+        
+         <p><ol label="1">
+           <li> Template for NTU thesis: GitHub URL: <url href="https://github.com/wang-chen/thesis_template_ntu"><c>link</c></url></li>
+           <li> A 2020 example of NTU PhD thesis (required front/back matters and formatting) in SCSE, see <url href="https://www.dropbox.com/s/6yghkjac9gfv9v3/PhD_QE_Thesis_Suggestions_ACGS_SCSE.pdf?dl=0"><c>SCSE thesis suggestion</c></url></li>
+           </ol>
+            </p>
+
+     	</subsection>
+
+
+
+    <subsection xml:id="GraduateStudents_TAC">
+
+        <title>NTU TAC report example</title>
+
+        <introduction>
+        	<p> For TAC reporting, heres an example from my PhD student Hou Nana (Oct 2020)	submitting this to her TAC panel for their endoresement. Link here <url href="https://www.dropbox.com/sh/twmboj63mpipr92/AADbaOfdhXbYlQ9grKJZmfFya?dl=0"><c>TAC HOU Nana (2020)</c></url>
+        </p>
+        </introduction>
+
+
+       </subsection>
+
+       <subsection xml:id="TAC_Yearly">
+                <title>Yearly reporting to TAC</title>
+                <introduction>
+                       You will need meet up with your TAC yearly.
+                       They are responsible to discuss with you your progress. Hence
+                       you will need to arrange for a meeting with them together, or individually.
+                        Sometimes they can ask you to send them your slides to present to them,
+                        or writeup. If they are comfortable with your progress, they can then help to sign off.
+
+                        If they are unable to meet you,  
+                    You can also record a 20~30 mins presentation and send them to watch the video.
+
+                    Basically, your presentation to them, pls update:
+                    <p><ol label="1">
+                            <li> Your CGPA</li>
+                            <li> Updated publications </li>
+                            <li> progress in research (like a QE presentation, or Phd thesis presentation) ~ about 15~20 mins </li>
+                            <li> Future research plans/goals.</li>
+                    </ol></p>
+                </introduction>
+            </subsection>
+
+
+
+    <subsection xml:id="GraduateStudents_Writing">
+        <title>Writing and Presenting for Graduate Students</title>
+        <introduction>
+
+        <p> My take in how you can organize your thesis, as well as presentation slides for your PhD defence (QE is the same).</p>
+        <p> Tips about writing thesis:  <url href="https://www.dropbox.com/s/g0aqsbrbiqw8qro/Thesis_Writing.docx?dl=0"><c>word document</c></url>
+               and   <url href="https://www.dropbox.com/s/h900tomkmb292mg/Thesis_Writing_MindMapv1.pdf?dl=0"><c>main map</c></url></p>
+
+        <p> I consider structure to be the most important consideration. To have structure, first write a series of questions to drive the report (revise it many times), 
+            and with the (finalised) questions, generate a power point file to provide more contents towards answering the questions. Repeat until satisfied, and then
+            write the report. See Chong's example below as well as PhD ProofReader's template (see below)
+    <url href="https://www.thephdproofreaders.com/structuring-a-thesis/how-to-use-your-phd-writing-template/"><c>Writing Template</c></url></p>
+
+        <p> Use ChatGPT to help improve your writing. See: 
+        <url href="https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing"><c>ChatGPT Promots</c></url>
+        as well as <url href="https://youtu.be/w-GiUY-DcJY"><c>YouTube: Epic ChatGPT Prompts (to help research writing)</c></url></p>
+
+        <p> Example, how to prepare for QE:  have a look at Zhao Yingzhu's (2020) and Andrew Koh's (2021) Qualifying Exam (QE) preparation (details below). </p>
+
+        <p> Example, how to prepare for PhD presentation (typically 40-45 mins), see Khassan's example below.</p>
+
+
+
+        </introduction>
+
+        <p><ol label="1">
+            <li><url href="https://www.linkedin.com/in/tze-yuang-chong-4b9b2a61/"><c>Chong Tze Yuang</c></url> preparation for his PhD thesis (2018):  <url href="https://www.dropbox.com/s/sa03lfvjqywes2g/chong_Questions.pdf?dl=0"><c>List of questions</c></url>
+               and   <url href="https://www.dropbox.com/s/xns7rqz6sycfp5y/chong_ThesisOutlineSlides.pptx?dl=0"><c>Power point preparations for thesis</c></url>
+               and  <url href="https://www.dropbox.com/s/9ur3bon1whthsk8/2018_June_ChongTzeYuangPhDThesis.pdf?dl=0"><c>thesis</c></url>and 
+               <url href="https://www.dropbox.com/s/m8y59n6nv0kqjdu/2018_June_ChongTzeYuang_Presentation.pptx?dl=0"><c>Presentation Slides</c></url>
+            </li>
+                
+             <li> <p> 
+                    <url href="https://www.linkedin.com/in/khassanov/"><c>Khassan Yerbolat</c></url>'s experience for his QE and PhD presentation:
+                    <ol>
+                        <li>  QE preparation: 
+                         <url href="https://www.dropbox.com/s/bjmetxhv8bgvfcl/Khassan_Ex_ch1_Jan2017_Analysis.txt?dl=0"><c>List of Questions</c></url> and
+                            <url href="https://www.dropbox.com/s/73o1jjc4288zq1i/Khassan_Ex_ch1_Jan2017.pdf?dl=0"><c>Initial Draft QE</c></url> </li>
+
+                     	<li> Khassan's final  <url href="https://www.dropbox.com/s/nc6hijq2l6q18ip/Khassan_FinalAmended_Thesis_May2020.pdf?dl=0"><c>PhD thesis</c></url>, and an example of 
+                     	<url href="https://www.dropbox.com/s/6cq9v5syu0plqr9/Khassan_ReplyExaminer3.pdf?dl=0"><c>reply</c></url>,
+                     	for examiner.</li>
+
+
+
+                       <li> During COVID lockdown (April 2020) he presented his PhD defence. The presentation was clear,
+                            and coherent. See the  <url href="https://www.dropbox.com/s/qae9jr1r1lwldha/Khassan_PhD_Slides_Questions.pptx?dl=0"><c>Questions</c></url>
+                            used to guide its development,
+                            <url href="https://www.dropbox.com/s/7ynga8owf7a6u76/Khassan_PhD_SlidesApril2020.pptx?dl=0"><c>Slides</c></url>    
+                            and finally the <url href="https://www.youtube.com/watch?v=1Dm16krGgv0"><c>Online Presentation</c></url>.
+                     	</li>
+                     </ol>
+                     </p> 
+                 </li>
+
+            <li><url href="https://www.linkedin.com/in/yingzhuzhaophd/"><c>Zhao Yingzhu</c></url> preparation for her QE thesis (July 2020):  <url href=
+            "https://www.dropbox.com/s/fsq3u54k78g8bsi/Yingzhu_Preparation_QE_slides.docx?dl=0"><c>Preparation Suggestions</c></url>
+               and   <url href="https://www.dropbox.com/s/wuun6tzmapronyw/Yingzhu_QE.pptx?dl=0"><c>QE Presentation Slides</c></url>
+               and  <url href="https://youtu.be/iddullfEaCo"><c>Youtube Link presentation</c></url>and 
+               <url href="https://www.dropbox.com/s/blucrqzkq46mjka/Yingzhu_main_QE_report_June2020.pdf?dl=0"><c>Thesis</c></url>
+           </li>
+
+           <li>Andrew Koh Jin Jie's <url href="https://github.com/dhecloud/SCSE_QE_Presentation"><c>github for QE</c></url> preparation for his QE thesis, slides, and presentation (May 2021).</li>
+           
+   </ol>
+   </p>
+    </subsection>
+
+    <subsection xml:id="GraduateStudents_Responses">
+        <title>Guideline for Responses to examiner and journal</title>
+        <introduction>
+            This section suggests how to respond to examines for your PhD thesis revisions as well as responses to journal for revisions.
+            In short, you have to be clear, state if you agree or disagree,
+            reply appropriately with depth and indicate where the changes are made. This allows the reviewer to quickly go through all the points to endorse or reject your resubmission.
+       </introduction>
+
+        <p><ol label="1">
+            <li>Example replies to Examiner in SCSE PhD thesis revision:  <url href="https://www.dropbox.com/s/xrgf441lotijguo/Example_Reply%20to%20Examiner1.pdf?dl=0"><c>Great example of a good response</c></url></li>
+            <li>Khassan's response for PhD revision (see above for his thesis, presentation, etc):
+                        <url href="https://www.dropbox.com/s/6cq9v5syu0plqr9/Khassan_ReplyExaminer3.pdf?dl=0"><c>reply</c></url>,
+                        for examiner.</li>
+            <li>Andrew Koh's response (Nov 2023) for PhD thesis:
+            <url href="https://www.dropbox.com/scl/fi/verkptpih1246dv1eq66j/AndrewKoh_Example_Reply-to-Examiner.pdf?rlkey=8bz6pbm0rnc2cla06ttfdpwpm"><c>reply</c></url>,
+                        for examiner.</li>
+            <li>An example in IEEE Trans antenna: <url href="http://paperqa.com/preparing-response-letter-for-ieee-transactions-academic-journal/"><c>response</c></url></li>
+            <li>An example by Steven Atkinson (U of Queensland, CS) <url href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.2728&#38;rep=rep1&#38;type=pdf"><c>pdf paper</c></url></li>
+            <li>A template (remember you need to cross ref in detail to your revision (where are the changes))
+                <url href="https://www.editage.com/info/files/Response_to_peer_reviewer_comments_template.pdf"><c>template</c></url></li>
+        </ol>
+        </p>                
+	   </subsection>
+
+    <subsection>
+    <title>Tools for writing</title>
+
+    <p><ol label ="1">
+
+        <li> Please use <url href="https://www.latex-project.org/get/"><c>latex</c></url> for your writing - it will help a lot! In windows you have <url href="https://miktex.org/"><c>miktex</c>.</url>
+         You can get a host of <url href="http://www.latextemplates.com/"><c>templates</c></url> here. My editor of choice is <url href="http://www.texstudio.org/"><c>TexStudio</c></url> - but ask 
+         <url href="https://www.quora.com/What-is-the-best-TeX-LaTeX-GUI-for-Windows"><c>Quora</c></url> for the latest answer.</li>
+         <li> If you need to watch a youtube video on latex, see
+            <url href="https://www.youtube.com/watch?v=zqQM66uAig0"><c>overleaf latex</c></url></li>
+
+         <li> For drawing, you can try  <url href="https://www.draw.io/"><c>draw.io</c></url> its a very nice software.</li>
+
+         <li> For collating all your papers, try <url href="https://www.mendeley.com/"><c>mendely</c></url>, or zotero.</li>
+
+         <li> To link all your ideas, I am now trying <url href="https://obsidian.md/"><c>obsidian </c></url>, and some of my student prefer 
+         <url href="https://roamresearch.com/"><c>roamresearch</c></url>. I also use 
+         <url href="https://apps.apple.com/us/app/ithoughts/id866786833"><c>iThoughtsHD</c></url> to generate mindmaps in my iPad.</li>
+
+         <li> <url href="https://www.linkedin.com/in/jonathan-dennis-9ab85186/"><c>Jonathan Dennis</c></url> experience: <url href="https://www.dropbox.com/s/81r5zfvf4rurabb/Jons_ThesisTips_2013.docx?dl=0"><c>tip</c></url> on tools he used for writing thesis.</li>
+
+
+     </ol></p>
+    </subsection>
+
+
+    <subsection>
+    <title>Tools to organize your work</title>
+
+    <p><ol label ="1">
+
+        <li> notion: keep your notes  <url href="https://www.notion.so/desktop/"><c>notion</c></url></li>
+        <li> MindMap: organize your thoughts with <url href="https://obsidian.md/"><c>Obsidian.md</c></url>,
+            <url href="https://roamresearch.com/"><c>Roam Research</c></url>, or <url href="https://apps.apple.com/us/app/ithoughts/id866786833"><c>iThoughtsHD</c></url>.
+        </li>
+        <li> Using <url href="https://www.dropbox.com/s/t2njccdg95oqvcl/Using_Google_Colab2021.pdf?dl=0"><c>Google CoLab</c></url></li>
+
+     </ol></p>
+    </subsection>
+    
+
+    <subsection>
+    <title>Writing Advise from others</title>
+    <p><ol label ="1">
+        <li>PhD Proof Reader - how to write an abstract and other resources - 
+            <url href="https://www.thephdproofreaders.com/writing/how-to-write-an-abstract-for-your-phd-thesis/"><c>writing abstract</c></url>,<url href="https://www.thephdproofreaders.com/the-knowledge-base/"><c>knowledge base</c></url>,<url href="https://www.thephdproofreaders.com/structuring-a-thesis/how-to-use-your-phd-writing-template/"><c>Writing Template</c></url></li>
+        <li> American Graduate School suggestion - <url href="http://www.ags.edu/images/stories/PDFs/CS-syllabi-F09/directed%20reading%20seminar%20guidelines.pdf"><c>guidelines</c></url></li>
+        <li>Karpathy's writing on "A survival guide to a PhD" -  <url href="http://karpathy.github.io/2016/09/07/phd/"><c>link</c></url></li>
+       <li>Karpathy's "Doing well in a course" -  <url href="https://cs.stanford.edu/people/karpathy/advice.html"><c>link</c></url></li>
+
+
+    <li> Kristin Sainani - writing for the sciences <url href="https://www.youtube.com/watch?v=4xdond91JfU"><c>youtube link</c></url></li>
+    <li> Professor Simon Peyton Jones (Cambridge) - How to write a Great Research Paper 
+         <url href="https://www.youtube.com/watch?v=VK51E3gHENc"><c>youtube Link</c></url>.</li>
+
+    <li> Judy Swan (Princeton) - Scientific Writing
+     <url href="https://www.youtube.com/watch?v=jLPCdDp_LE0"><c>youtube Link</c></url>.</li>
+
+     <li> Steve Easterbrook - <url href="http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf"><c>how thesis get written.</c></url></li>\href{}{Youtube}
+    </ol></p>
+    </subsection>
+
+        <subsection> 
+        <title>Subjects, Software you should know</title>
+        <p>A list of subjects you can and should pick up before starting your graduate school with speech lab: see <url href="https://www.dropbox.com/s/y47nuruy38s1p71/GoodCourses_Learning.docx?dl=0"><c>list of things to know</c></url></p>
+        </subsection>
+
+
+    </section>
+
+
+    <section xml:id="UndergraduateStudents">
+        <title>UnderGraduate Students</title>
+
+        <subsection>
+        <title>FYP (Final Year Project) presentation matters</title>
+        <p>
+            FYP presentation information: FYP presentation requires you to speak for about 20~23 minutes with additional 5 minutes of Q and A.
+            The objective of the presentation is for the examiner to understand and appreciate what you have done, hence in the 
+            presentation you should
+            <p><ol label ="1">        
+                <li> Present an  Overview of the problem – what is the problem, motivation to solve the problem, existing issues of the problem.</li>
+                <li> Discuss Who/how has the problem been solved by others (lit survey).</li>
+                <li> Present how you have solved the problem – novelty, difficulty, creativity, etc.</li>
+                <li> Show the results (demo, screen shot, experiment, table, video) of your work. </li>
+                <li> Finally, present conclusion and future works.</li>
+            </ol></p>
+        </p>        
+
+
+    <p>Note: For your slides:  page 1 MUST have your name, FYP title, year of FYP, etc and all slides must have page number.</p>
+
+    <p> Note, the motive of the presentation is for the examiner to grade you, hence he/she has to 
+    appreciate your FYP, your work (difficulty, your contribution), and your technical ability, coding skill, knowledge, etc. 
+    You should have a lot of good things to say about the great things you have done, but
+    remember you only have 20~25 minutes.</p>
+
+    <p>
+    To prepare, I suggest you make a video of your own presentation and watch it as rehearsal. See examples of previous students FYP presentation in the section below. 
+    </p>
+
+
+    </subsection>
+
+    <subsection>
+    <title>FYP final report and interim report</title>
+
+        <p> Pls write your report in Overleaf Latex. </p>
+
+        <p> FYP report (interim) and (final): the purpose of the report is to show that you
+           <ol label ="1">        
+            <li> your project scope (problem) and what you have accomplished. </li>
+            <li> have done the work by yourself (no cut and paste), able to describe the technology and steps taken
+            to complete the project</li>
+            <li> have sufficient knowledge of the work (lit review, discussions) </li>
+            <li> implemented reasonable baselines (codes, demos, etc) </li>
+            <li> proposed future works </li>
+            </ol>
+        </p>
+
+        <p>  The interim report should look like a 50%  version of the final report, and you can look at the examples in the next section. Final report should be in the range of 40~65 pages</p>
+        <p> See the advise for writing here:
+               <xref ref="GraduateStudents_Writing" />, same applies.</p>
+
+    </subsection>
+
+        <subsection>
+        <title>Examples of past FYP reports, presentations, etc</title>
+        <p>
+           <ol label ="1">        
+            <li> 2023 Dec example by Tjandy Putra- : Deploying Automatic Speech Recognition System for scalability, reliabiliy
+                and security with Kubernetics.
+            <url href="https://www.youtube.com/watch?v=b1FHizHcrko"><c>Video Link</c></url>,
+                <url href="https://www.dropbox.com/scl/fi/eydmqhpuv4uhmz7o47czg/2023_SCSE22-0652_FYP_Tjandy_Report.pdf?rlkey=9psx2mu9ozq55z7d9sqili2ku"><c>Pdf Report</c></url>
+                <url href="https://www.dropbox.com/scl/fi/2065jqymccauatf679pb5/2023_SCSE22-0652_FYP_Tjandy_Slides.pdf?rlkey=5tx9kkb4oglm3wrfg03ibxhqg"><c>Slides</c></url>
+            </li>
+
+
+            <li> 2023 May example by Christopher Yong - Web-Based Speech Recognition Platform (On Cloud and Local Deployment) 
+            <url href="https://www.dropbox.com/s/c50s6w6lqa4959w/ChrisYong_May2023_FYP_Presentation_Recording.mp4?dl=0"><c>Video Link</c></url>,
+                <url href="https://www.dropbox.com/s/7g47ekscgeejd2q/ChrisYong_May2023_Ammended_FYP_Report.pdf?dl=0"><c>Pdf Report</c></url>
+                <url href="https://www.dropbox.com/s/7ecanlwk61cdrl3/ChrisYong_May2023_FYP_Presentation_Slides.pptx?dl=0"><c>Slides</c></url>
+            </li>
+
+            <li> 2023 May exampl by Song Yu - Deploying Speech Recognition System using Kubernetes Cluster Infrastructure as Code with Terraform and Terragrunt 
+                <url href="https://www.dropbox.com/s/ujqbsaqbr9onx8x/2023_May_SongYu_FYP%20Presentation.mp4?dl=0"><c>Video Link</c>
+            </url>, <url href="https://www.dropbox.com/s/ujqbsaqbr9onx8x/2023_May_SongYu_FYP%20Presentation.mp4?dl=0"><c>Pdf report</c>
+        </url>
+        <url href="https://www.dropbox.com/s/hs3nx2mxpg6mrlv/2023_May_SongYu_Deploying%20Speech%20Recognition%20System%20using%20Kubernetes%20Cluster%20-%20Oral%20Presentation.pdf?dl=0"><c>Slides</c></url>
+    </li>
+
+            <li> 2022 Dec example by Poh Kai Kiat - GitOps in Kubernetics Cluster  <url href="https://www.youtube.com/watch?v=qnsKsQJCX5c"><c>YouTube Link</c></url>,
+            <url href="https://drive.google.com/file/d/1VhOjXdNNt4wviwpFJ8MMoaAUKvnKMhQw/view?usp=sharing"><c>FYP Report</c></url></li>
+
+            <li> 2022 May example by Joshua Lee - Docker and Kubernetes – Enhance the
+securities of the live-stream ASR system deployment in the cloud <url href="https://www.dropbox.com/s/mlfz9kychhl67x1/THz_FYP_Slides_May2022.pdf?dl=0"><c>Slides</c></url>, <url href="https://www.dropbox.com/s/c2kp0v2su6x1rpd/JoshuaLee_FYPReport_May2022.pdf?dl=0"><c>report</c></url>,<url href="https://youtu.be/-_e2W5Ycmjw">  <c>Youtube</c></url></li>
+
+            <li> 2022 May example by Tan Hui Zhan: Web-based Speech Recognition Platform – SG Decoding <url href="https://www.dropbox.com/s/nzli0fbqzxwmpt6/JoshuaLee_FYPSlides_2022May.pptx?dl=0"><c>Slides</c></url>, <url href="https://www.dropbox.com/s/3bcyzhph1pqln67/THz_FYP_Report_May2022.pdf?dl=0"><c>report</c></url>, <url href="https://www.youtube.com/watch?v=UC44vGXSXJc"><c>Youtube</c></url></li>
+
+            <li> 2021 Dec example by Lee Yan Zhen - sound event detection with human and emergency sounds <url href="https://www.youtube.com/watch?v=UgVBKFla6kk"><c>Youtube</c></url>,
+            <url href="https://www.dropbox.com/s/4e4lr4vlt22132o/2021_LeeYanZhen_FYP%20Presentation.pptx?dl=0"><c>slides</c></url>,    
+            <url href="https://www.dropbox.com/s/8w332x0cfljh2ph/2021_Lee_Yan_Zhen_FYP.pdf?dl=0"><c>report</c></url></li>
+
+            <li> 2020-Dec example by Darren Toh - Multipurpose microphone array system <url href="https://www.youtube.com/watch?v=qsLfv2EkV3o"><c>Youtube</c></url></li>
+
+            <li> May 2020 - Wong Seng Wee's FYP - Deploying Speech Recognition System using high availability and scalability kubernetes cluster <url href="https://www.youtube.com/watch?v=le79VEOjeuQ"><c>Youtube</c></url></li>
+
+            <li> Some past example of expected standard of report: <url href="https://www.dropbox.com/s/x90l4y8ux8lmn0z/ExamplesOfFYPReports.zip?dl=0"><c>here</c></url> </li>
+
+            <li> Examples in NTU library for web application/development type of projects:
+            <url href="https://dr.ntu.edu.sg/handle/10356/148069"><c>148069</c></url>,
+            <url href="https://dr.ntu.edu.sg/handle/10356/153133"><c>153133</c></url>,
+            <url href="https://dr.ntu.edu.sg/handle/10356/148042"><c>148042</c></url>,
+            <url href="https://dr.ntu.edu.sg/handle/10356/148427"><c>148427</c></url></li>
+
+
+            
+        </ol></p>
+        </subsection>
+    </section>
+
+    <section>
+        <title>Courses Taught</title>
+            <p><ol label ="1">        
+            <li>
+            <stack>        
+             CPE3007 - Digital Signal Processing (Since 2013): 
+                <ul>
+                    <li>  Videos for this subject by me (2018): <url href="https://www.youtube.com/channel/UCxDhDzWlVRGIVQEg2BIl6xg/playlists"><c>YouTube link</c></url></li>
+                    <li>  Some code samples for DSP python (2018) by me.<url href="https://github.com/aseschng/"><c>Github Link</c></url></li>
+                </ul>
+            </stack>
+            </li>
+
+
+                <li> CPE414/ES6105 DSP (2005-9) </li>
+                <li> CPE3006 - Digital Communications (since Jan 2016 - 2017) </li> 
+                <li> CPE206 - Micro-controller Systems Design (2004-2009) </li>      
+                <li> Maths2 - (tut-2018 Jan, lecture 2019) </li>
+             </ol></p>
+    </section>
+
+    <section>
+    <title>Some relevant E-Learning Videos</title>
+            <p><ol label ="1">        
+                <li>Weighted Finite State Transducer - <url href="https://www.youtube.com/channel/UCsg4NhZjN7NZuJIjwea0njw"><c>YouTube</c></url> produced by <url href="https://www.linkedin.com/in/lim-zhi-hao-025546115/"><c>Lim Zhi Hao</c></url> in 2015 during his TL internship.</li>
+
+                <li>Tensors for Beginners by eigenchris (pg?ug), 
+                    <url href="https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG"><c>Youtube</c></url></li>
+
+
+                <li>Essence of Linear Algebra by 3Blue1Brown (ug) an intutive understanding, 
+                    <url href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"><c>Youtube</c></url></li>
+
+                <li>Petra Bonfert-Taylor's lectures (ug) Analysis of a Complex Kind
+                <url href="https://www.youtube.com/channel/UCaTLkDn9_1Wy5TRYfVULYUw/playlists"><c>Youtube</c></url></li>
+
+                <li>  Stephen Boyd, ECE263, Intro to Linear Dynamical System (pg?ug)
+                    <url href="https://www.youtube.com/watch?v=bf1264iFr-w"><c>YouTube</c></url></li>
+
+                <li> Ole Chirstensen lectures - Hilbert Space (pg) <url href="https://www.youtube.com/watch?v=jWkzBaJDSmY"><c>YouTube</c></url></li>
+
+                <li> Fredric Schuller's lectures - Hilbert Space and such (pg)
+                <url href="https://www.youtube.com/channel/UC6SaWe7xeOp31Vo8cQG1oXw/playlists"><c>YouTube</c></url></li>
+            </ol>
+        </p>
+    </section>
+
+</chapter>
+
+
+
+
+
+
+

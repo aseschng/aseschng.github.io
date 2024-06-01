@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+    <!-- May need lilyglyphs.sty from Debian/Ubuntu texlive-music -->
+
+    <docinfo>
+        <!-- this is the default, but supresses a warning -->
+        <cross-references text="type-global" />
+        <brandlogo url="https://www.ntu.edu.sg/home/aseschng/default.html" source="images/ntu_img.png" />
+    </docinfo>
+    <book xml:id="default">
+        <title>Chng Eng Siong</title>
+        <personname>Nanyang Technological University, Singapore</personname>
+
+        <xi:include href="intro1.xml"/>
+        <xi:include href="speechLab.xml"/>
+        <xi:include href="Teaching.xml"/>
+        <xi:include href="FundingList.xml"/>
+    </book>
+
+</pretext>
