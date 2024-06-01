@@ -6,7 +6,7 @@
 
             <sidebyside widths = "85% 15%" valign="middle">
                     <p>I joined NTU in 2003, and am currently an Associate Professor in the 
-                    <url href="http://scse.ntu.edu.sg/Pages/Home.aspx"><c>School of Computer Science and Engineering</c></url>, Singapore.  
+                    <url href="https://www.ntu.edu.sg/computing"><c>College of Computing and Data Science</c></url>, Singapore.  
                     </p>
                     <image source = './images/es2_small.jpg' /> 
             </sidebyside>
@@ -14,7 +14,7 @@
     <p>
     My main research interest is in speech and lanaguge processing, and I am the PI of 
                     <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> with interest to develop robust code-switch ASR using LLM capabilities.
-            Other research interests include: NLP and machine learning. To date, I have been Principal Investigator of several research grants awarded by Alibaba, Webank, AISG, NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$13 million under the 
+            Other research interests include: NLP and machine learning. To date, I have been Principal Investigator of several research grants awarded by Alibaba, Webank, AISG, NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$18 million under the 
         <xref ref="speechLab_intro" text="custom"><em>Speech and Language Laboratory</em></xref>
          at SCSE,  <xref ref="countGraduatedPhD">supervised (PhD Students)=</xref>
          and   <xref ref="countGraduatedMEng">supervised (MEng Students)=</xref>.
@@ -39,7 +39,7 @@
         </p>
 
         <p>I am a PhD supervisor and PI for 4 AIR projects in Alibaba (
-达摩院) NTU-Joint Research institute (speech research)
+达摩院) NTU-Joint Research institute (speech research) and co-PI for Alibaba-NTU Global e-Sustainability CorpLab (ANGEL) lab
            <url href="https://damo.alibaba.com/labs/speech/"><c>Speech research</c></url></p>
 
 
