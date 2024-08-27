@@ -252,6 +252,8 @@
      <subsection xml:id="my_MSAI_Students">
          <title>Current MEng and Masters Program Students</title>
          <p><ol label="1">
+            <li><url href=""><c>Ni Yunyi</c></url> (2024 Aug~), Masters Data Science, TTS speaker characterisation via NLP text</li>
+
             <li><url href="https://www.linkedin.com/in/yanru-chen-2b38b8221/"><c>Chen Yanru</c></url> (2024 Jan~), Masters Data Science, Classification of Depression Syndrome by Deep Learning</li>
 
             <li><url href="https://www.linkedin.com/in/xiaokaiqin/"><c>Qin Xiaokai</c></url> (2023 Aug~), MSAI student, Deepfake audio generation using voice conversion</li>
@@ -271,19 +273,18 @@
 
             <li><url href="https://arxiv.org/abs/2311.17382"><c>Yang Yuhang</c></url> (2023 June~, PhD student (Hunan University), China), LLM ASR</li>
 
+
+            <li><url href=""><c>Zhang Xueyi</c></url> (2024 Aug~), NUTD, Changsa, CSC Scholar, Robust onlline Diarization</li>
+
+               <li><url href="https://openreview.net/profile?id=~Haorui_Zheng1"><c>Zheng Haorui</c></url> (2024 June~ , AISG remote), Masters student (Peking University, China), Speaker Diarization with Speech Separation</li>
+
             <li><url href="https://www.linkedin.com/in/xiangyu-zhang-a0735b194/"><c>Zhang Xiangyu</c></url> (2023 June~, PhD student (UNSW, Australia), Depression classification</li>
 
-            <li><c>Chen Weiguang</c> (2022 June~, PhD student (Hunan University), Diarization using multi-channel approaches</li>
-           <li><url href="https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"><c>Yao Jixun</c></url> (2023 Oct~ Oct 2024, AISG NUS visitor), PhD student (Northwestern Poly, China), Speech Enhancement and TTS</li>
+
                <li><url href="https://scholar.google.com/citations?user=GEVwy4sAAAAJ"><c>Le Yuquan</c></url> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), LLM for Legal</li>
                <li><c>Luo Juan</c> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), Audio event detection and classification</li>
 
-               <li><url href="https://arxiv.org/abs/2305.10761"><c>Zhang Zizheng</c></url> (2023 June~ Jun 2024, AISG remote), Masters student (Peking University, China), Speech Separation, <url href="https://github.com/TzuchengChang/NASS"><c>github</c></url></li>
                
-               <li><url href="https://openreview.net/profile?id=~Haorui_Zheng1"><c>Zheng Haorui</c></url> (2024 June~ , AISG remote), Masters student (Peking University, China), Speaker Diarization with Speech Separation</li>
-               
-
-                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
             </ol>
             </p></subsection>
 
@@ -381,12 +382,22 @@
     </subsection>
 
     <subsection xml:id="Past_MSAI_Students">
-    <title>Past MSAI Students and Other collaboration students</title>
+    <title>Past MSAI Students and Other collaboration (graduate) students</title>
     <p><ol label="1">
+
+
+
+                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
+
+               <li><url href="https://arxiv.org/abs/2305.10761"><c>Zhang Zizheng</c></url> (2023 June~ Jun 2024, AISG remote), Masters student (Peking University, China), Speech Separation, <url href="https://github.com/TzuchengChang/NASS"><c>github</c></url></li>
+
 
             <li><url href="https://in.linkedin.com/in/adnan-azmat-496000153"><c>Azmat Adnan</c></url> (Reg 2023 Aug, completed Aug 2024), MSAI student, DNN Approaches for noisy speech diarization </li>
 
             <li><c>Zhuo Ning</c> (Reg 2023 Aug, completed Aug 2024), Masters Cybersecurity student, Deep Fake Corpus developmenet and detection </li>
+            <li><c>Chen Weiguang</c> (2022 June~, PhD student (Hunan University), Diarization using multi-channel approaches</li>
+           <li><url href="https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"><c>Yao Jixun</c></url> (2023 Oct~ Oct 2024, AISG NUS visitor), PhD student (Northwestern Poly, China), Speech Enhancement and TTS</li>
+
 
                 <li><c>Jiang Yufei</c> (2022 Aug~ 2023 Aug), MSAI (NTU), Adopting Neural Translation Model in Data Generation for Inverse Text Normalization</li>
                 <li><c>Liu Jiaxing</c> (2021 Oct ~2023 Oct, CSC visitor, PhD student Tianjin University, China), Multi-modal emotion recognition</li>
