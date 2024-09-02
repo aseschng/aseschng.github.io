@@ -8,7 +8,7 @@
         <introduction>
             <p>The speech and language research group in SCSE was founded in 2007 by Chng Eng Siong and
             <url href="http://www.colips.org/~eleliha/"><c>Prof Li Haizhou</c></url> (now in CUHK-Shenzen, China). 
-            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://makerspace.aisingapore.org/do-ai/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
+            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
             </p>
         </introduction>
 
@@ -18,48 +18,25 @@
             <ol label="1">     
                 <li> <c>ASR and LLM</c>
                 <ol label="a">     
-                    <li>Using LLM to improve ASR by generative error correction: see <url href="https://arxiv.org/pdf/2309.15701.pdf"><c>Hyporadise</c></url></li>
+                    <li>Using LLM to improve ASR: see <url href="https://arxiv.org/pdf/2309.15701.pdf"><c>Hyporadise</c></url></li>
                     <li>Code-switch multi-lingual speech recognition: see <url href="https://arxiv.org/abs/1811.09021"><c>Audio to Byte</c></url></li>
                     <li>Robust Large vocabulary continuous speech recognition: joint end-to-end ASR with speech enhancement module, wave2vec2, speaker extraction</li>
                     <li>Speech enhancement: speaker extraction, denoising, feature enhancement, overlapping speech extraction</li>
-                    <li>Faster decoding with end-to-end and real time android based decoders</li>
-                    <li>Tranfer Learning: from large trained acoustic model (16KHz) to  8KHz models via transfer learning</li>
                    </ol>
                 </li>
                 <li> <c>Classification</c>
                 <ol label="a">     
-                    <li>Noisy Audio event and scene classifications, Audio captioning <url href="http://dcase.community/challenge2020/task-automatic-audio-captioning"><c>DCase</c></url></li>
-                <li>Speaker identification and speaker diarization: diarization, VAD, and speaker extraction issues, see <url href="https://arxiv.org/abs/2010.11458"><c>Microsoft diarization approach</c></url></li>
+
                 <li>Deep Fake Detection (and generation)<url href="https://paperswithcode.com/task/deepfake-detection"><c>Link</c></url></li>
+                <li>Speaker identification and speaker diarization: diarization, VAD, and speaker extraction issues, see <url href="https://arxiv.org/abs/2010.11458"><c>Microsoft diarization approach</c></url></li>
                 </ol>
                 </li>
 
-                <li><c>Towards Speech Understanding</c> - some aspects of NLP such as topic detection, name entity recognition, text normalization. See a demo of our ASR for ATC speech with NER highlighting.
+                <li><c>Towards Speech Understanding</c> - some aspects of NLP such as depression classification, 
+                summarization,  name entity recognition, text normalization. See a demo of our ASR for ATC speech with NER highlighting.
                 <url href="https://www.youtube.com/watch?v=CFsaeK6vP7k"><c>ATC with NER</c></url>
                 </li>
             </ol>
-
-
-	<p>	Examples of relevant papers to the research area include:
-	<url href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46687.pdf"><c>sequence to sequence model</c></url>
-	which has been widely studied in <url href="https://arxiv.org/abs/1609.08144"><c>machine translation</c></url>. 
-	The problems we are keen on include
-	<ul>
-		<li>	Code switch end to end and Adaptation -> 
-			how to improve the model in certain target environment (speaker, noise, type of dialogues), etc.
-		<url href="https://dblp.org/pers/p/Pham:Van_Tung.html"><c>Code-switch End-to-end</c></url></li>
-
-		<li>	Classification-> what type of sound is this? <url href="http://dcase.community/challenge2019/index"><c>Audio Scene and Event Analysis</c></url></li>
-		<li>    Speaker id: who spoke it: <url href="http://danielpovey.com/files/2019_interspeech_xvector_refinement.pdf"><c>speaker id</c></url>
-				under <url href="https://arxiv.org/pdf/1902.02546.pdf"><c>overlapping condition</c></url> 
-				and  <url href="https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html"><c>when (Diarization).</c></url></li>
-
-		<li> 	Speech Enhancement -  <url href="https://www.researchgate.net/publication/340643534_SpEx_Multi-Scale_Time_Domain_Speaker_Extraction_Network"><c>speaker extraction</c></url> and 
-				<url href="https://link.springer.com/article/10.1186/s13634-015-0300-4"><c>derevberation</c></url>.</li>
-
-	</ul>
-	</p>
-
 
         </subsection>            
 
@@ -91,7 +68,7 @@
         </subsection>            
 
         <subsection>
-            <title>Our recent demos using our speech engine</title>
+            <title>Our past demos using our speech engine</title>
             <p>2020 FYPs demo:</p>
             <ol label='1'>
 
@@ -107,7 +84,7 @@
 
 
         <subsection>
-        		<title>Some of our recent works in git</title>
+        		<title>Some of our past works in git</title>
         		<ol label = '1'>
         				<li><p>PhD Student Hou Nana's work in NTU (2018~2021), single channel speech enhancement, <url href="https://github.com/nanahou/Awesome-Speech-Enhancement"><c>github</c></url></p></li>
         				<li><p>PhD Student Xu Chenglin's work in NTU (2015~2020), single channel speech separation/extration,<url href="https://github.com/xuchenglin28/"><c>github</c></url></p></li>
