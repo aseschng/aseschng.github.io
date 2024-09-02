@@ -136,22 +136,26 @@
             <li><url href="https://www.linkedin.com/in/hexin-liu-2a7a91212/?originalSubdomain=sg"><c>Dr Liu Hexin</c></url>,research fellow (LLM) (joned Oct 2023~)</li>
             <li><url href="https://www.hieuthi.com/"><c>Dr Luong Hieu Thi</c></url>,research fellow (Deepfake) (joined Jan 2024~Dec 2025)</li>
 
-            <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack and chatBot</li>
+            <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack dev (Mar 2017)</li>
 
-            <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga</c></url>, sentence unit detection and full-stack, backend. (May 2013~Jul 2024)</li>
+            <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (Oct 2015~)</c></url>, full-stack development</li>
 
+            <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Diarization, AISG Speech Lab (Jan 2016~)</li>
             
             <li><url href="https://www.linkedin.com/in/tanmay-surana-118a79192/"><c>Tanmay Surana</c></url>, <c>NLP and Depression classification</c> (Jan 2024~)</li>
-            <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Speaker verification and DNN</li>
-            <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (AISG-NTU)</c></url>, full-stack development</li>
-            <li><url href="https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn"><c>Peng Yizhou (AISG-NUS)</c></url>, speech research, in NUS AISG lab (Jan 2023~)</li>
+            
+            <li><url href="https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn"><c>Peng Yizhou</c></url>, speech research (Jan 2023 (NUS-AISG)~Aug 2024, Sep 2024~)</li>
             
             <li><url href="https://www.linkedin.com/in/nurshahidahj/"><c>Nur Shahidah Binte Jamaludin</c></url>, corpus development and linguistic support, (Sep 2021~)</li>
+
+            <li><url href="https://www.linkedin.com/in/changsong-liu"><c>LIU Changsong</c></url>, ASR (Sep 2024~)</li>
             </ol></p>
 
     <subsection xml:id="Past_Staff">
     <title>Past Staff</title>
     <p><ol label="1">
+
+        <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga</c></url>, sentence unit detection and full-stack, backend. (May 2013~Jul 2024)</li>
 
 
             <li><url href="https://www.linkedin.com/in/nabilah-ismail-6b3aa0164"><c>Nabilah Ismail</c></url>, Corpus Development (joined Oct 2020~Oct2023</li>
@@ -193,7 +197,11 @@
             <title>Current PhD and Graduate Students</title>
             <p><ol label="1">
 
-            <li><url href="https://www.linkedin.com/in/%E4%BE%9D%E8%B1%AA-%E5%90%B4-0b5523325"><c>Wu Yihao</c></url>, Robust Diarization under noisy conditions (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
+            <li><url href="https://www.linkedin.com/in/yi-wen-chao-407277295"><c>Chao Yi-Wen</c></url>, Paralinguistic Enhanced LLM for Speech Input  (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
+
+            <li><url href="https://www.linkedin.com/in/%E4%BE%9D%E8%B1%AA-%E5%90%B4-0b5523325"><c>Wu Yihao</c></url>,Robust online speaker diarization under far-talk noisy conditions (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
+
+            <li><url href="https://www.linkedin.com/in/songting-liu-b0098b220"><c>Liu Songting</c></url>, Enhancing Speech Generation with Multi-Modal Prompts and Contextual Information (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
 
             <li><url href="https://www.linkedin.com/in/yeoyueheng"><c>Yeo Yue Heng</c></url>, LLM for speech recognition (reg Jan 2024, Supervisor: Chng Eng Siong, AStar Co-Sup:Tran Huy Dat), AStar Scholar</li>
 
