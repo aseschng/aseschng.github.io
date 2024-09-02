@@ -5,20 +5,19 @@
     <introduction>
 
             <sidebyside widths = "85% 15%" valign="middle">
-                    <p>I joined NTU in 2003, and am currently an Associate Professor in the 
+                    <p>I joined NTU in 2003, and am currently Professor of Computer Science in the 
                     <url href="https://www.ntu.edu.sg/computing"><c>College of Computing and Data Science</c></url>, Singapore.  
                     </p>
                     <image source = './images/es2_small.jpg' /> 
             </sidebyside>
 
     <p>
-    My main research interest is in speech and lanaguge processing, and I am the PI of 
+    My main research interests are in speech, language processing and Large Language Models. I am the PI of 
                     <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> with interest to develop robust code-switch ASR using LLM capabilities.
-            Other research interests include: NLP and machine learning. To date, I have been Principal Investigator of several research grants awarded by Alibaba, Webank, AISG, NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$18 million under the 
+            Other research interests include: speech enhancement, classifications and machine learning. To date, I have been Principal Investigator of several research grants awarded by Alibaba, Tencent, Webank, AISG, NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$18 million under the 
         <xref ref="speechLab_intro" text="custom"><em>Speech and Language Laboratory</em></xref>
-         at SCSE,  <xref ref="countGraduatedPhD">supervised (PhD Students)=</xref>
+         at College of Computing and Data Science. Past graduate students: <xref ref="countGraduatedPhD">supervised (PhD Students)=</xref>
          and   <xref ref="countGraduatedMEng">supervised (MEng Students)=</xref>.
-        Publications include 2 edited books and over ~150 journal/conference papers.
         </p>
 
         <p>Working experience prior to joining NTU: 
@@ -35,11 +34,10 @@
         and <url href="https://www.southampton.ac.uk/people/5wy8nv/professor-sheng-chen"><c>Chen Sheng</c></url> </p>
 
     
-        <p>Served as the publication chair for 5 international conferences (Human Agent Interaction 2016, INTERSPEECH 2014, APSIPA-2010, APSIPA-2011, ISCSLP-2006), and have been an associate editor for IEICE (special issue 2012), a reviewer for Speech Communications, Eupsico, IEEE Trans Man,System and Cybernectics Part B, Journal of Signal Processing System, ACM Multimedia Systems, IEEE Trans Neural Network, IEEE Trans CAS-II, and Signal Processing.
+        <p>Served as General CO-Chair (SLT 2024 Macau), (ICAICTA 2024, Singapore), keynotes at IALP (2024 Hohhot)ISCSLP (Singapore, 2022). Served as the publication chair for conferences (Human Agent Interaction 2016, INTERSPEECH 2014, APSIPA-2010, APSIPA-2011, ISCSLP-2006), associate editor for IEICE (special issue 2012), reviewer for Speech Communications, Eupsico, IEEE Trans Man,System and Cybernectics Part B, Journal of Signal Processing System, ACM Multimedia Systems, IEEE Trans Neural Network, IEEE Trans CAS-II, and Signal Processing.
         </p>
 
-        <p>I am a PhD supervisor and PI for 4 AIR projects in Alibaba (
-达摩院) NTU-Joint Research institute (speech research) and co-PI for Alibaba-NTU Global e-Sustainability CorpLab (ANGEL) lab
+        <p>I am a PhD supervisor and PI for 4 AIR projects in Alibaba (达摩院) NTU-Joint Research institute (speech research) and co-PI for Alibaba-NTU Global e-Sustainability CorpLab (ANGEL) lab
            <url href="https://damo.alibaba.com/labs/speech/"><c>Speech research</c></url></p>
 
 
@@ -79,7 +77,7 @@
         
 
 <p>Visited by <url href="https://clustrmaps.com/site/r77q"><c>ClusterMap</c></url></p>
-<p>Last Updated: 15 July 2024</p>
+<p>Last Updated: 1 Sep 2024</p>
 <p>This web page was produced using <url href="https://pretextbook.org/index.html"><c>PreTeXt</c></url></p>
 </introduction>
 </chapter>
