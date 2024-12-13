@@ -264,10 +264,10 @@
             presentation you should
             <p><ol label ="1">        
                 <li> Present an  Overview of the problem – what is the problem, motivation to solve the problem, existing issues of the problem.</li>
-                <li> Discuss Who/how has the problem been solved by others (lit survey).</li>
+                <li> Discuss Who/how has the problem been solved by others (lit survey). Restrict the discussion to information related to the focus and contributions of the project.</li>
                 <li> Present how you have solved the problem – novelty, difficulty, creativity, etc.</li>
                 <li> Show the results (demo, screen shot, experiment, table, video) of your work. </li>
-                <li> Finally, present conclusion and future works.</li>
+                <li> Finally, present conclusions and future works.</li>
             </ol></p>
         </p>        
 
@@ -312,6 +312,14 @@
         <title>Examples of past FYP reports, presentations, etc</title>
         <p>
            <ol label ="1">        
+            <li> 2024 Nov example by Lee Juin - "Web-based Automated Transcription and Speaker-Label Analysis System – ATLAS"
+            <url href="https://youtu.be/9MRV12ZFUm4"><c>Video Link Presentation</c></url>,
+            <url href="https://www.youtube.com/watch?v=Hj0veeN_v20"><c>Video Link Demo</c></url>,
+            <url href="https://www.dropbox.com/scl/fi/0j9j4qqchh14qe0pjh766/2024_SCSE23-0810_LeeJuin_FinalReport.pdf?rlkey=spnnoincz2vw0q5iuy9lf5jhw?dl=0"><c>Pdf Report</c></url>
+                <url href="https://www.dropbox.com/scl/fi/569j27ppzo7paquzq9zjm/2024_SCSE23-0810_Lee_Juin_SlideDeck.pdf?rlkey=yuftkw1df6zvg5m4wdok2xxfx?dl=0"><c>Slides</c></url>
+            </li>
+
+
             <li> 2023 Dec example by Tjandy Putra- : Deploying Automatic Speech Recognition System for scalability, reliabiliy
                 and security with Kubernetics.
             <url href="https://www.youtube.com/watch?v=b1FHizHcrko"><c>Video Link</c></url>,
