@@ -8,7 +8,7 @@
         <introduction>
             <p>The speech and language research group in SCSE was founded in 2007 by Chng Eng Siong and
             <url href="http://www.colips.org/~eleliha/"><c>Prof Li Haizhou</c></url> (now in CUHK-Shenzen, China). 
-            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
+            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://makerspace.aisingapore.org/do-ai/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
             </p>
         </introduction>
 
@@ -18,25 +18,48 @@
             <ol label="1">     
                 <li> <c>ASR and LLM</c>
                 <ol label="a">     
-                    <li>Using LLM to improve ASR: see <url href="https://arxiv.org/pdf/2309.15701.pdf"><c>Hyporadise</c></url></li>
+                    <li>Using LLM to improve ASR by generative error correction: see <url href="https://arxiv.org/pdf/2309.15701.pdf"><c>Hyporadise</c></url></li>
                     <li>Code-switch multi-lingual speech recognition: see <url href="https://arxiv.org/abs/1811.09021"><c>Audio to Byte</c></url></li>
                     <li>Robust Large vocabulary continuous speech recognition: joint end-to-end ASR with speech enhancement module, wave2vec2, speaker extraction</li>
                     <li>Speech enhancement: speaker extraction, denoising, feature enhancement, overlapping speech extraction</li>
+                    <li>Faster decoding with end-to-end and real time android based decoders</li>
+                    <li>Tranfer Learning: from large trained acoustic model (16KHz) to  8KHz models via transfer learning</li>
                    </ol>
                 </li>
                 <li> <c>Classification</c>
                 <ol label="a">     
-
-                <li>Deep Fake Detection (and generation)<url href="https://paperswithcode.com/task/deepfake-detection"><c>Link</c></url></li>
+                    <li>Noisy Audio event and scene classifications, Audio captioning <url href="http://dcase.community/challenge2020/task-automatic-audio-captioning"><c>DCase</c></url></li>
                 <li>Speaker identification and speaker diarization: diarization, VAD, and speaker extraction issues, see <url href="https://arxiv.org/abs/2010.11458"><c>Microsoft diarization approach</c></url></li>
+                <li>Deep Fake Detection (and generation)<url href="https://paperswithcode.com/task/deepfake-detection"><c>Link</c></url></li>
                 </ol>
                 </li>
 
-                <li><c>Towards Speech Understanding</c> - some aspects of NLP such as depression classification, 
-                summarization,  name entity recognition, text normalization. See a demo of our ASR for ATC speech with NER highlighting.
+                <li><c>Towards Speech Understanding</c> - some aspects of NLP such as topic detection, name entity recognition, text normalization. See a demo of our ASR for ATC speech with NER highlighting.
                 <url href="https://www.youtube.com/watch?v=CFsaeK6vP7k"><c>ATC with NER</c></url>
                 </li>
             </ol>
+
+
+	<p>	Examples of relevant papers to the research area include:
+	<url href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46687.pdf"><c>sequence to sequence model</c></url>
+	which has been widely studied in <url href="https://arxiv.org/abs/1609.08144"><c>machine translation</c></url>. 
+	The problems we are keen on include
+	<ul>
+		<li>	Code switch end to end and Adaptation -> 
+			how to improve the model in certain target environment (speaker, noise, type of dialogues), etc.
+		<url href="https://dblp.org/pers/p/Pham:Van_Tung.html"><c>Code-switch End-to-end</c></url></li>
+
+		<li>	Classification-> what type of sound is this? <url href="http://dcase.community/challenge2019/index"><c>Audio Scene and Event Analysis</c></url></li>
+		<li>    Speaker id: who spoke it: <url href="http://danielpovey.com/files/2019_interspeech_xvector_refinement.pdf"><c>speaker id</c></url>
+				under <url href="https://arxiv.org/pdf/1902.02546.pdf"><c>overlapping condition</c></url> 
+				and  <url href="https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html"><c>when (Diarization).</c></url></li>
+
+		<li> 	Speech Enhancement -  <url href="https://www.researchgate.net/publication/340643534_SpEx_Multi-Scale_Time_Domain_Speaker_Extraction_Network"><c>speaker extraction</c></url> and 
+				<url href="https://link.springer.com/article/10.1186/s13634-015-0300-4"><c>derevberation</c></url>.</li>
+
+	</ul>
+	</p>
+
 
         </subsection>            
 
@@ -68,7 +91,7 @@
         </subsection>            
 
         <subsection>
-            <title>Our past demos using our speech engine</title>
+            <title>Our recent demos using our speech engine</title>
             <p>2020 FYPs demo:</p>
             <ol label='1'>
 
@@ -84,7 +107,7 @@
 
 
         <subsection>
-        		<title>Some of our past works in git</title>
+        		<title>Some of our recent works in git</title>
         		<ol label = '1'>
         				<li><p>PhD Student Hou Nana's work in NTU (2018~2021), single channel speech enhancement, <url href="https://github.com/nanahou/Awesome-Speech-Enhancement"><c>github</c></url></p></li>
         				<li><p>PhD Student Xu Chenglin's work in NTU (2015~2020), single channel speech separation/extration,<url href="https://github.com/xuchenglin28/"><c>github</c></url></p></li>
@@ -136,26 +159,22 @@
             <li><url href="https://www.linkedin.com/in/hexin-liu-2a7a91212/?originalSubdomain=sg"><c>Dr Liu Hexin</c></url>,research fellow (LLM) (joned Oct 2023~)</li>
             <li><url href="https://www.hieuthi.com/"><c>Dr Luong Hieu Thi</c></url>,research fellow (Deepfake) (joined Jan 2024~Dec 2025)</li>
 
-            <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack dev (Mar 2017)</li>
+            <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack and chatBot</li>
 
-            <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (Oct 2015~)</c></url>, full-stack development</li>
+            <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga</c></url>, sentence unit detection and full-stack, backend. (May 2013~Jul 2024)</li>
 
-            <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Diarization, AISG Speech Lab (Jan 2016~)</li>
             
             <li><url href="https://www.linkedin.com/in/tanmay-surana-118a79192/"><c>Tanmay Surana</c></url>, <c>NLP and Depression classification</c> (Jan 2024~)</li>
-            
-            <li><url href="https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn"><c>Peng Yizhou</c></url>, speech research (Jan 2023 (NUS-AISG)~Aug 2024, Sep 2024~)</li>
+            <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Speaker verification and DNN</li>
+            <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (AISG-NTU)</c></url>, full-stack development</li>
+            <li><url href="https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn"><c>Peng Yizhou (AISG-NUS)</c></url>, speech research, in NUS AISG lab (Jan 2023~)</li>
             
             <li><url href="https://www.linkedin.com/in/nurshahidahj/"><c>Nur Shahidah Binte Jamaludin</c></url>, corpus development and linguistic support, (Sep 2021~)</li>
-
-            <li><url href="https://www.linkedin.com/in/changsong-liu"><c>LIU Changsong</c></url>, ASR (Sep 2024~)</li>
             </ol></p>
 
     <subsection xml:id="Past_Staff">
     <title>Past Staff</title>
     <p><ol label="1">
-
-        <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga</c></url>, sentence unit detection and full-stack, backend. (May 2013~Jul 2024)</li>
 
 
             <li><url href="https://www.linkedin.com/in/nabilah-ismail-6b3aa0164"><c>Nabilah Ismail</c></url>, Corpus Development (joined Oct 2020~Oct2023</li>
@@ -197,29 +216,30 @@
             <title>Current PhD and Graduate Students</title>
             <p><ol label="1">
 
-            <li><url href="https://www.linkedin.com/in/yi-wen-chao-407277295"><c>Chao Yi-Wen</c></url>, Paralinguistic Enhanced LLM for Speech Input  (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
-
-            <li><url href="https://www.linkedin.com/in/%E4%BE%9D%E8%B1%AA-%E5%90%B4-0b5523325"><c>Wu Yihao</c></url>,Robust online speaker diarization under far-talk noisy conditions (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
-
-            <li><url href="https://www.linkedin.com/in/songting-liu-b0098b220"><c>Liu Songting</c></url>, Enhancing Speech Generation with Multi-Modal Prompts and Contextual Information (reg Aug 2024, MEng, Supervisor: Chng Eng Siong</li>
+            <li><url href=""><c>Wu Yihao</c></url>, Approaches for Diarization  (reg Aug 2024, Supervisor: Chng Eng Siong)</li>
 
             <li><url href="https://www.linkedin.com/in/yeoyueheng"><c>Yeo Yue Heng</c></url>, LLM for speech recognition (reg Jan 2024, Supervisor: Chng Eng Siong, AStar Co-Sup:Tran Huy Dat), AStar Scholar</li>
 
 
-            <li><url href=""><c>Li Haoyang</c></url>, Neural Text to Speech (reg Aug 2023, Alibaba-PhD)</li>
+            <li><url href=""><c>Li Haoyang</c></url>, Neural Text to Speech (reg Aug 2023)</li>
 
-            <li><url href="https://www.linkedin.com/in/ductuantruong/"><c>Tuan Truong Duc</c></url>, Robust Speaker verification under noisy and short duration scenario (reg Jan 2023, PhD)</li>
+            <li><url href="https://www.linkedin.com/in/ductuantruong/"><c>Tuan Truong Duc</c></url>, Robust Speaker verification and Deep Fake Detection under noisy and short duration scenario (reg Jan 2023, PhD)</li>
             <li><url href="https://www.linkedin.com/in/fabian-ritter-gutierrez-9ab4317a/"><c>Fabian Ritter Gutierrez</c></url>,End2End ASR for Language Learning (reg Aug 2022, AStar scholar) (co-supervised with AStar: Nancy Chen</li>
             <li><url href="https://www.linkedin.com/in/paniquex/"><c>Nikita Kuzmin</c></url>, Disentaglement for Speaker verification and privacy (reg Aug 2022, AStar scholar) (co-supervised with AStar: Lee Kong Aik</li>
 
             
             <li><url href="https://www.linkedin.com/in/aaron-kwok-b1163b1b4/"><c>Kwok Chin Yuen</c></url>, Acoustic modelling of targetted domain speech (Children's speech acoustic modelling) (reg Aug 2021, MEng, converted to PhD program, Aug 2022)</li>
-            <li><url href="https://www.linkedin.com/in/yuchen-hu-704870195/"><c>Hu Yuchen 胡宇晨 </c></url>, robust End-to-End ASR (reg Aug 2021, MEng, converted to PhD program, Aug 2022). 
+            <li><url href="https://yuchen005.github.io/"><c>Hu Yuchen 胡宇晨 </c></url>, robust End-to-End ASR (reg Aug 2021, MEng, converted to PhD program, Aug 2022). 
         <url href="https://www.dropbox.com/scl/fi/4max4uevisy2agmz29or0/2023_HuYuchenQE_QE_presentation.pptx?rlkey=bbrrdv0h042wi4b23gah2r3ct"><c>QE Slides (2023)</c></url>,
         </li>
-            <li><url href="https://www.linkedin.com/in/yip-jia-qi/"><c>Yip Jia Qi</c></url>, Neural Networks for Speaker Extraction and its interdisciplinary applications (reg Aug 2021, Alibaba scholar PhD)</li>
-            <li><url href="https://www.linkedin.com/in/dianwen-ng-34691a129/"><c>Ng Dian Wen</c></url>, Domain adaptation for End-to-End ASR (reg Jan 2021, Alibaba scholar PhD)</li>
-            <li><url href="https://www.linkedin.com/in/chen-chen-4bb7231b8/"><c>Chen Chen</c></url>, End-to-End ASR (reg Jan 2021, PhD)</li>
+            <li><url href="https://www.linkedin.com/in/yip-jia-qi/"><c>Yip Jia Qi</c></url>, From Time-domain to Generative
+Speech Separation (reg Aug 2021, Alibaba scholar PhD) (Thesis submitted: Jan 2025)</li>
+            <li><url href="https://www.linkedin.com/in/dianwen-ng-34691a129/"><c>Ng Dian Wen</c></url>, Optimizing Speech Representation
+Learning for Enhanced Noise Robustness
+in Downstream Applications (reg Jan 2021, Alibaba scholar PhD) (Thesis submitted: Jan 2025)</li>
+            <li><url href="https://www.linkedin.com/in/chen-chen-4bb7231b8/"><c>Chen Chen</c></url>, Advancing Speech-to-Text Adaptation for
+Large Speech Models (reg Jan 2021, PhD) (submitted PhD Thesis, Jan 2025) 
+<url href="https://scholar.google.com.hk/citations?user=uUmSp1QAAAAJ?hl=zh-CN"><c>Google Scholar</c></url>, <url href="https://www.dropbox.com/scl/fi/kckc3pkhgm9lqcac5usfe/ChenChen_Thesis_Submission.pdf?rlkey=ynf2kzl2s9d3o5nisdo0thcfk?dl=0"><c>Thesis (review)</c></url>       </li>
         
             </ol></p>     
 
@@ -230,7 +250,6 @@
             <li><url href="https://www.linkedin.com/in/ashutosh-anshul-b12508148"><c>Ashutosh Anshul</c></url>, Multi-modal Deep Fake classification and detection (reg Jan 2024, Supervisor: Deepu Rajan, Co-Sup:Chng Eng Siong)</li>
 
             <li><url href="https://www.linkedin.com/in/the-shreyas-gopal/"><c>Shreyas Gopas</c></url>, Speech Recognition using LLM for under-resourced languages (reg Jan 2024, Supervisor: Quek Hiok Chai, Co-Sup:Chng Eng Siong)</li>
-            <li><url href="https://www.linkedin.com/in/rae-jia-xin-koh-9b10b3105/"><c>Rae Koh Jia Xin</c></url>, Singapore English (reg Aug 2019, PhD) (Sup: Tan Ying Ying (HSS), Co-Sup: Chng Eng Siong)</li>
             <li><url href="https://sites.google.com/view/hqzou/"><c>Zou HeQing</c></url>, Multimodal Machine Learning (reg Jan 2021, PhD) (Sup:Deepu Rajan, Co-Sup: Chng Eng Siong)</li>
 
             </ol></p>    
@@ -239,8 +258,6 @@
      <subsection xml:id="my_MSAI_Students">
          <title>Current MEng and Masters Program Students</title>
          <p><ol label="1">
-            <li><url href="https://www.linkedin.com/in/yunyi-ni-3a6885325"><c>Ni Yunyi</c></url> (2024 Aug~), Masters Data Science, TTS speaker characterisation via NLP text</li>
-
             <li><url href="https://www.linkedin.com/in/yanru-chen-2b38b8221/"><c>Chen Yanru</c></url> (2024 Jan~), Masters Data Science, Classification of Depression Syndrome by Deep Learning</li>
 
             <li><url href="https://www.linkedin.com/in/xiaokaiqin/"><c>Qin Xiaokai</c></url> (2023 Aug~), MSAI student, Deepfake audio generation using voice conversion</li>
@@ -260,18 +277,19 @@
 
             <li><url href="https://arxiv.org/abs/2311.17382"><c>Yang Yuhang</c></url> (2023 June~, PhD student (Hunan University), China), LLM ASR</li>
 
-
-            <li><url href=""><c>Zhang Xueyi</c></url> (2024 Aug~), NUTD, Changsa, CSC Scholar, Robust onlline Diarization</li>
-
-               <li><url href="https://openreview.net/profile?id=~Haorui_Zheng1"><c>Zheng Haorui</c></url> (2024 June~ , AISG remote), Masters student (Peking University, China), Speaker Diarization with Speech Separation</li>
-
             <li><url href="https://www.linkedin.com/in/xiangyu-zhang-a0735b194/"><c>Zhang Xiangyu</c></url> (2023 June~, PhD student (UNSW, Australia), Depression classification</li>
 
-
+            <li><c>Chen Weiguang</c> (2022 June~, PhD student (Hunan University), Diarization using multi-channel approaches</li>
+           <li><url href="https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"><c>Yao Jixun</c></url> (2023 Oct~ Oct 2024, AISG NUS visitor), PhD student (Northwestern Poly, China), Speech Enhancement and TTS</li>
                <li><url href="https://scholar.google.com/citations?user=GEVwy4sAAAAJ"><c>Le Yuquan</c></url> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), LLM for Legal</li>
                <li><c>Luo Juan</c> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), Audio event detection and classification</li>
 
+               <li><url href="https://arxiv.org/abs/2305.10761"><c>Zhang Zizheng</c></url> (2023 June~ Jun 2024, AISG remote), Masters student (Peking University, China), Speech Separation, <url href="https://github.com/TzuchengChang/NASS"><c>github</c></url></li>
                
+               <li><url href="https://openreview.net/profile?id=~Haorui_Zheng1"><c>Zheng Haorui</c></url> (2024 June~ , AISG remote), Masters student (Peking University, China), Speaker Diarization with Speech Separation</li>
+               
+
+                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
             </ol>
             </p></subsection>
 
@@ -283,7 +301,9 @@
     <title>Past PhD Students</title>
     <image source = './images/recentPhDGrad.jpg' /> 
     <p><ol label="1" > 
-        <li><url href="https://www.linkedin.com/in/andrew-koh-5464a5118/"><c>Andrew Koh Jin Jie</c></url>, Sequence to Sequence Machine Learning (reg Aug 2019, PhD, submitted Thesis)</li>
+        <li><url href="https://www.linkedin.com/in/rae-jia-xin-koh-9b10b3105/"><c>Rae Koh Jia Xin</c></url>, Singapore English (reg Aug 2019, PhD) (graduated 2024) (Sup: Tan Ying Ying (HSS), Co-Sup: Chng Eng Siong)</li>
+
+        <li><url href="https://www.linkedin.com/in/andrew-koh-5464a5118/"><c>Andrew Koh Jin Jie</c></url>, Sequence to Sequence Machine Learning (reg Aug 2019, PhD, graduated 2023)</li>
 
         <li><url href="https://www.linkedin.com/in/yingzhuzhaophd/"><c>Zhao Yingzhu</c></url>, End-to-End speech recognition (reg Jan 2019, PhD, graduated May 2023). <url href="https://youtu.be/6vCzAem8Hbo"><c>Oral Defence rehearsal</c></url>
     <url href="https://www.dropbox.com/s/x9hcwk383htwlvl/Yingzhu_oral_SlidesApr2023.pptx?dl=0"><c>PhD Slides</c></url>
@@ -369,22 +389,12 @@
     </subsection>
 
     <subsection xml:id="Past_MSAI_Students">
-    <title>Past MSAI Students and Other collaboration (graduate) students</title>
+    <title>Past MSAI Students and Other collaboration students</title>
     <p><ol label="1">
-
-
-
-                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
-
-               <li><url href="https://arxiv.org/abs/2305.10761"><c>Zhang Zizheng</c></url> (2023 June~ Jun 2024, AISG remote), Masters student (Peking University, China), Speech Separation, <url href="https://github.com/TzuchengChang/NASS"><c>github</c></url></li>
-
 
             <li><url href="https://in.linkedin.com/in/adnan-azmat-496000153"><c>Azmat Adnan</c></url> (Reg 2023 Aug, completed Aug 2024), MSAI student, DNN Approaches for noisy speech diarization </li>
 
             <li><c>Zhuo Ning</c> (Reg 2023 Aug, completed Aug 2024), Masters Cybersecurity student, Deep Fake Corpus developmenet and detection </li>
-            <li><c>Chen Weiguang</c> (2022 June~, PhD student (Hunan University), Diarization using multi-channel approaches</li>
-           <li><url href="https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"><c>Yao Jixun</c></url> (2023 Oct~ Oct 2024, AISG NUS visitor), PhD student (Northwestern Poly, China), Speech Enhancement and TTS</li>
-
 
                 <li><c>Jiang Yufei</c> (2022 Aug~ 2023 Aug), MSAI (NTU), Adopting Neural Translation Model in Data Generation for Inverse Text Normalization</li>
                 <li><c>Liu Jiaxing</c> (2021 Oct ~2023 Oct, CSC visitor, PhD student Tianjin University, China), Multi-modal emotion recognition</li>
