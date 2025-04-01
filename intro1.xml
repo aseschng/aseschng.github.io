@@ -7,12 +7,13 @@
             <sidebyside widths = "85% 15%" valign="middle">
                     <p>I joined NTU in 2003, and am currently Professor of Computer Science in the 
                     <url href="https://www.ntu.edu.sg/computing"><c>College of Computing and Data Science</c></url>, Singapore.  
+                    I am also Asst Dean (Innovation and Industry) for CCDS since Jan 2025. 
                     </p>
                     <image source = './images/es2_small.jpg' /> 
             </sidebyside>
 
     <p>
-    My main research interests are in speech, language processing and Large Language Models. I am the PI of 
+    My main research interests are in speech, language processing and Large Language Models. I am/have been the PI of 
                     <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> with interest to develop robust code-switch ASR using LLM capabilities.
             Other research interests include: speech enhancement, classifications and machine learning. To date, I have been Principal Investigator of several research grants awarded by Alibaba, Tencent, Webank, AISG, NTU-Rolls Royce, Mindef, MOE and AStar with a total funding amount of over S$18 million under the 
         <xref ref="speechLab_intro" text="custom"><em>Speech and Language Laboratory</em></xref>
@@ -77,7 +78,7 @@
         
 
 <p>Visited by <url href="https://clustrmaps.com/site/r77q"><c>ClusterMap</c></url></p>
-<p>Last Updated: 21 Jan 2025</p>
+<p>Last Updated: 26 March 2025</p>
 <p>This web page was produced using <url href="https://pretextbook.org/index.html"><c>PreTeXt</c></url></p>
 </introduction>
 </chapter>
