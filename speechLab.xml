@@ -155,6 +155,8 @@
     <section xml:id="my_Staff">
             <title>Staff</title>
             <p><ol label="1">
+            <li><url href="https://www.linkedin.com/in/wei-rao-49382080/"><c>Dr Rao Wei</c></url>,senior research fellow (LLM) (joned April 2025~)</li>
+
 
             <li><url href="https://www.linkedin.com/in/hexin-liu-2a7a91212/?originalSubdomain=sg"><c>Dr Liu Hexin</c></url>,research fellow (LLM) (joned Oct 2023~)</li>
             <li><url href="https://www.hieuthi.com/"><c>Dr Luong Hieu Thi</c></url>,research fellow (Deepfake) (joined Jan 2024~Dec 2025)</li>
@@ -166,9 +168,8 @@
             <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Speaker verification and DNN</li>
             <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (AISG-NTU)</c></url>, full-stack development</li>
             <li><url href="https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn"><c>Peng Yizhou (AISG-NUS)</c></url>, speech research, in NUS AISG lab (Jan 2023~)</li>
-            
+            <li><url href="https://www.linkedin.com/in/adnan-azmat-496000153/?originalSubdomain=sg"><c>Azmat Adnan</c></url>,Research Associate (joned April 2025~)</li>
             <li><url href="https://www.linkedin.com/in/nurshahidahj/"><c>Nur Shahidah Binte Jamaludin</c></url>, corpus development and linguistic support, (Sep 2021~)</li>
-
             <li><url href="https://www.linkedin.com/in/changsong-liu/"><c>Liu Changsong</c></url>,Project Officer (joned Aug 2024~)</li>
 
             </ol></p>
@@ -379,6 +380,7 @@ Dialogue Generation and Code-Switching in LLMs (MSAI reg Aug 2024, Supervisor: C
     <title>Past MEng Students</title>
     <p><ol label="1">
             
+        <li><url href="https://www.linkedin.com/in/adnan-azmat-496000153/?originalSubdomain=sg"><c>Azmat Adnan</c></url>,(MSAI Thesis, 2024) Robust Diarization</li>
         <li><url href="https://www.linkedin.com/in/tanmay-surana-118a79192/"><c>Tanmay Surana</c></url>, <c>Deep Learning-based Text Augmentation for Named Entity Recognition</c> (reg Aug 2021, MEng, completed Oct 2023)</li>
 
         <li><url href="https://www.linkedin.com/in/chaiyasait/"><c>Prachaseree Chaiyasait</c></url>, Adaptation of Language Models via Text Augmentation (reg Aug 2021, MEng, submitted Jul 2023, completed Oct 2023)</li>
