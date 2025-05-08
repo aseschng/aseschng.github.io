@@ -327,8 +327,11 @@
         <p>
            <ol label ="1">        
 
-            <li> 2025 May example by Marcus Yeo  - nice presentation slides, pls see style (for dev type of projects) -
-                <url href="https://www.dropbox.com/scl/fi/dppso9ygcj3fmoxqo02h1/2025_UG_FYP_MacusYeoOral-Presentation-Slides-Final.pptx?rlkey=bwbetkmuilde68hs8l35oj9et?dl=0"><c>Slides</c></url></li>
+            <li> 2025 May example by Marcus Yeo  - nice presentation slides/video/Github, pls see style (for dev type of projects) -
+                <url href="https://github.com/marcusyeoyh/sgdecoding_fyp"><c>Github</c></url>
+                <url href="https://www.dropbox.com/scl/fi/6wdoqs4tp2ayamphdsirj/Marcus-Yeo-FYP-Report-Final.pdf?rlkey=vywdpmfht4ep5pnauhwoybhwf?dl=0"><c>Report</c></url>
+                <url href="https://www.dropbox.com/scl/fi/dppso9ygcj3fmoxqo02h1/2025_UG_FYP_MacusYeoOral-Presentation-Slides-Final.pptx?rlkey=bwbetkmuilde68hs8l35oj9et?dl=0"><c>Slides</c></url>
+            </li>
 
             <li> 2025 example by Chan Ming Han for his work on developing program to provide provisioninig and deployment with Terraform and Kubernetes,
                 <url href="https://www.youtube.com/watch?v=Xb5z91MU1ns"><c>FYP presentation video</c></url>
