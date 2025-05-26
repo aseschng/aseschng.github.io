@@ -246,10 +246,7 @@
 Speech Separation (reg Aug 2021, Alibaba scholar PhD) (Thesis submitted: Jan 2025)
 <url href="https://www.dropbox.com/scl/fi/6b37hr2wi51sh4gp72esx/2025_Jan_YipJiaQi_Thesis_Submission.pdf?rlkey=rx7cgyf5ovy3v7lynknw4fjcf?dl=0"><c>(Thesis submitted: Jan 2025) </c></url> </li>
 
-            <li><url href="https://www.linkedin.com/in/dianwen-ng-34691a129/"><c>Ng Dian Wen</c></url>, Optimizing Speech Representation
-Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2021, Alibaba scholar PhD) 
-<url href="https://www.dropbox.com/scl/fi/u51323eliyp84efnsig8t/2025_Jan_NgDianWen_Thesis_Submission.pdf?rlkey=jbdomtc7660az69iix4evig2v?dl=0"><c>(Thesis submitted: Jan 2025)</c></url></li>
-
+ 
             <li><url href="https://www.linkedin.com/in/chen-chen-4bb7231b8/"><c>Chen Chen</c></url>, Advancing Speech-to-Text Adaptation for
 Large Speech Models (PhD reg Jan 2021) (submitted PhD Thesis, Jan 2025) 
 <url href="https://scholar.google.com.hk/citations?user=uUmSp1QAAAAJ?hl=zh-CN"><c>Google Scholar</c></url>, <url href="https://www.dropbox.com/scl/fi/kckc3pkhgm9lqcac5usfe/ChenChen_Thesis_Submission.pdf?rlkey=ynf2kzl2s9d3o5nisdo0thcfk?dl=0"><c>(Thesis submitted: Jan 2025)</c></url></li>
@@ -314,8 +311,17 @@ Dialogue Generation and Code-Switching in LLMs (MSAI reg Aug 2024, Supervisor: C
     <subsection xml:id="Past_PhD_Students">
     <title>Past PhD Students</title>
     <image source = './images/recentPhDGrad.jpg' /> 
+
+
+
     <p><ol label="1" > 
-        <li><url href="https://www.linkedin.com/in/rae-jia-xin-koh-9b10b3105/"><c>Rae Koh Jia Xin</c></url>, Singapore English (reg Aug 2019, PhD) (graduated 2024) (Sup: Tan Ying Ying (HSS), Co-Sup: Chng Eng Siong)</li>
+
+           <li><url href="https://www.linkedin.com/in/dianwen-ng-34691a129/"><c>Ng Dian Wen</c></url>, Optimizing Speech Representation
+Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2021, graduated 2025 May, Alibaba scholar PhD) 
+<url href="https://www.dropbox.com/scl/fi/5aped99ygawmsqxy7yr0l/2025_dianwen_final.pdf?rlkey=k6vr2hrzjh974d1tt49th8hld?dl=0"><c>(Thesis :May 2025)</c></url></li>
+
+
+        <li><url href="https://www.linkedin.com/in/rae-jia-xin-koh-9b10b3105/"><c>Rae Koh Jia Xin</c></url>, Singapore English (reg Aug 2019, PhD) (graduated 2025) (Sup: Tan Ying Ying (HSS), Co-Sup: Chng Eng Siong)</li>
 
         <li><url href="https://www.linkedin.com/in/andrew-koh-5464a5118/"><c>Andrew Koh Jin Jie</c></url>, Sequence to Sequence Machine Learning (reg Aug 2019, PhD, graduated 2023)</li>
 
