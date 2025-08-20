@@ -7,15 +7,9 @@
     <section xml:id="GraduateStudents">
         <title>Graduate Students</title>
 
-        <p>
-    Have a look at this link, its funny and uplifting:
-    <url href="https://www.facebook.com/share/v/1aCdR3yx9o/?mibextid=UalRPS"><c>9 life lessons</c>.
-    Which lessons resonate with you? Mine were 2, and 9.
-    To all reading this, wishing you all the very best in studies and life.
-    </url>
-        </p>
 
-        <p>
+
+    <p>
         This section provides some tips for incoming graduate students - from 
         thesis writing, useful tools, guide to responding to examiners, etc.</p>
 
@@ -26,98 +20,31 @@
         You can also read about JHU's Prof Dredze's guide for
         <url href="https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_2.pdf"><c>
             "Guide on How to be a Successful PhD Student"</c></url>
-
     </p>
 
+    <p>Heres a video in a graduation event thats funny and uplifting:
+    <url href="https://www.facebook.com/share/v/1aCdR3yx9o/?mibextid=UalRPS"><c>Tim Minchin - Live To Learn, 9 life lessons</c>.</url>
+    Which lessons resonate with you?</p>
+    <p>To all reading this, wishing you all the very best in studies and life.</p>
 
-	    <subsection xml:id="SCSE_Requirements">
-        <title>SCSE Thesis formatting requirements</title>
-
-        
-         <p><ol label="1">
-           <li> Template for NTU thesis: GitHub URL: <url href="https://github.com/wang-chen/thesis_template_ntu"><c>link</c></url></li>
-           <li> A 2020 example of NTU PhD thesis (required front/back matters and formatting) in SCSE, see <url href="https://www.dropbox.com/s/6yghkjac9gfv9v3/PhD_QE_Thesis_Suggestions_ACGS_SCSE.pdf?dl=0"><c>SCSE thesis suggestion</c></url></li>
-           </ol>
-            </p>
-
-     	</subsection>
-
-
-
-    <subsection xml:id="GraduateStudents_TAC">
-
-        <title>NTU TAC report example</title>
+    <subsection xml:id="Writing your QE and PhD Thesis">
+        <title>Writing your QE/PhD Thesis and presenting PhD defence</title>
 
         <introduction>
-        	<p> For TAC reporting, heres an example from my PhD student Hou Nana (Oct 2020)	submitting this to her TAC panel for their endoresement. Link here <url href="https://www.dropbox.com/sh/twmboj63mpipr92/AADbaOfdhXbYlQ9grKJZmfFya?dl=0"><c>TAC HOU Nana (2020)</c></url>
-        </p>
-        </introduction>
-
-
-       </subsection>
-
-       <subsection xml:id="TAC_Yearly">
-                <title>Yearly reporting to TAC</title>
-                <introduction>
-                       You will need meet up with your TAC yearly.
-                       They are responsible to discuss with you your progress. Hence
-                       you will need to arrange for a meeting with them together, or individually.
-                        Sometimes they can ask you to send them your slides to present to them,
-                        or writeup. If they are comfortable with your progress, they can then help to sign off.
-
-                        If they are unable to meet you,  
-                    You can also record a 20~30 mins presentation and send them to watch the video.
-
-                    Basically, your presentation to them, pls update:
-                    <p><ol label="1">
-                            <li> Your CGPA</li>
-                            <li> Updated publications </li>
-                            <li> progress in research (like a QE presentation, or Phd thesis presentation) ~ about 15~20 mins </li>
-                            <li> Future research plans/goals.</li>
-                    </ol></p>
-                </introduction>
-            </subsection>
-
-
-
-    <subsection xml:id="Examples for Writing">
-        <title>Examples for Writing and Presenting for Graduate Students</title>
-        <p><ol label="1">
-    
-        <li> Example, how to prepare for QE:  have a look at Zhao Yingzhu's (2020) and Andrew Koh's (2021) Qualifying Exam (QE) preparation (details below).</li>
-
-        <li> Example, how to prepare for PhD presentation (typically 40-45 mins), see Khassan's example below.</li>
-
-        <li> Example: Suggestions for your slides: <url href="https://www.dropbox.com/scl/fi/n98npmgpdc8vzp8ju4b8m/Suggestions_forSlides.docx?rlkey=ohuw5ugoi0io0blll8pyt5lrk&amp;dl=0"><c>word document</c></url></li>
-
-        <li> Example: TianRui's slides (2025): <url href="https://www.dropbox.com/scl/fi/vfl3gvltiauhsgsjjldgd/Slides_2025_TTS-Tianrui-Wang.pdf?rlkey=1v1mrmu76ored30hjo1dyen6y?dl=0"><c>pdf document</c></url></li>
-
-    </ol>
-    </p>
-    </subsection>        
-
-
-
-
-    <subsection xml:id="GraduateStudents_Writing">
-        <title>Writing and Presenting for Graduate Students</title>
-        <introduction>
-
-
-        <p> My take in how you can organize your thesis, as well as presentation slides for your PhD defence (QE is the same).</p>
-        <p> Tips about writing thesis:  <url href="https://www.dropbox.com/s/g0aqsbrbiqw8qro/Thesis_Writing.docx?dl=0"><c>word document</c></url>
-               and   <url href="https://www.dropbox.com/s/h900tomkmb292mg/Thesis_Writing_MindMapv1.pdf?dl=0"><c>main map</c></url></p>
+        <p> My take in how you can organize your thesis.</p>
+        <p> How to organize your thesis:  <url href="https://www.dropbox.com/s/g0aqsbrbiqw8qro/Thesis_Writing.docx?dl=0"><c>word document</c></url></p>
         
 
-        <p> I consider structure to be the most important consideration. To have structure, first write a series of questions to drive the report (revise it many times), 
-            and with the (finalised) questions, generate a power point file to provide more contents towards answering the questions. Repeat until satisfied, and then
-            write the report. See Chong's example below as well as PhD ProofReader's template (see below)
-    <url href="https://www.thephdproofreaders.com/structuring-a-thesis/how-to-use-your-phd-writing-template/"><c>Writing Template</c></url></p>
+        <p> I consider structure to be the most important consideration. To have structure, first write a series of questions to drive the 
+            report (revise it many times),         and with the (finalised) questions, generate a power point file to 
+            provide more contents towards answering the questions. Repeat until satisfied, and then
+            write the report. See examples below.</p>
 
 
         <p> To study structure in a paper, find a good paper that reads well. See the example of how I analysed this paper. It demonstrates how the title is mapped to the abstract, which then maps to the introduction.
             There is no missing content as it expands.
-            <url href="https://www.dropbox.com/scl/fi/bvx56wiil1ms4ab5n3cbv/Wzz-student-paper_2024.pdf?rlkey=4udxne17ak2lwd2vo4lqoojrd&amp;dl=0"><c>Writing Template</c></url>
+            <url href="https://www.dropbox.com/scl/fi/bvx56wiil1ms4ab5n3cbv/Wzz-student-paper_2024.pdf?rlkey=4udxne17ak2lwd2vo4lqoojrd&amp;dl=0">
+                <c>Analysis of a paper</c></url>
             </p>
 
         <p> Use ChatGPT to help improve your writing. See: 
@@ -126,8 +53,6 @@
 
 
         </introduction>
-
-
         <p> Examples below:</p>
         <p><ol label="1">
 
@@ -181,6 +106,72 @@
    </ol>
    </p>
     </subsection>
+
+
+    <subsection xml:id="How to prepare your Slides for QE and final Defence">
+        <title>How to prepare your Slides for QE and final Defence</title>
+        <p><ol label="1">
+
+        <li> Example: Suggestions for your slides: <url href="https://www.dropbox.com/scl/fi/n98npmgpdc8vzp8ju4b8m/Suggestions_forSlides.docx?rlkey=ohuw5ugoi0io0blll8pyt5lrk&amp;dl=0"><c>word document</c></url></li>
+
+        <li> Khassan's example: how to prepare for PhD presentation (typically 40-45 mins).
+              During COVID lockdown (April 2020) he presented his PhD defence. The presentation was clear,
+                            and coherent. See the  <url href="https://www.dropbox.com/s/qae9jr1r1lwldha/Khassan_PhD_Slides_Questions.pptx?dl=0"><c>Questions</c></url>
+                            used to guide its development,
+                            <url href="https://www.dropbox.com/s/7ynga8owf7a6u76/Khassan_PhD_SlidesApril2020.pptx?dl=0"><c>Slides</c></url>    
+                            and finally the <url href="https://www.youtube.com/watch?v=1Dm16krGgv0"><c>Online Presentation</c></url>.
+                        </li>
+
+
+        <li> TianRui's slides (2025) showing clarity in figures and information. This style is very good: <url href="https://www.dropbox.com/scl/fi/vfl3gvltiauhsgsjjldgd/Slides_2025_TTS-Tianrui-Wang.pdf?rlkey=1v1mrmu76ored30hjo1dyen6y?dl=0"><c>pdf document</c></url></li>
+
+    </ol>
+    </p>
+    </subsection>        
+
+
+
+	    <subsection xml:id="SCSE_Requirements">
+        <title>SCSE Thesis formatting requirements</title>
+
+        
+         <p><ol label="1">
+           <li> Template for NTU thesis: GitHub URL: <url href="https://github.com/wang-chen/thesis_template_ntu"><c>link</c></url></li>
+           <li> A 2020 example of NTU PhD thesis (required front/back matters and formatting) in SCSE, see <url href="https://www.dropbox.com/s/6yghkjac9gfv9v3/PhD_QE_Thesis_Suggestions_ACGS_SCSE.pdf?dl=0"><c>SCSE thesis suggestion</c></url></li>
+           </ol>
+            </p>
+
+     	</subsection>
+
+
+
+
+       <subsection xml:id="TAC_Yearly">
+        <title>Yearly reporting to TAC (Thesis Advisory Committe)</title>
+
+        <p> You will need to meet up with your TAC yearly. TAC members are there to help your progress in your PhD journey
+            and to sign off the TAC report. Hence, for their evaluation,
+                       arrange for a meeting with them individually or together yearly.
+                        Depending on their availability/request, you can meet you physically to report, or just 
+                        send them your slides as update, and/or record a 20~30 mins presentation for update as video for their verification.
+        </p>            
+
+        <p> Your presentation to them should include:
+                    <p><ol label="a">
+                            <li> Academic: Your current CGPA, subjects taken, to be taken, etc</li>
+                            <li> Updated publications </li>
+                            <li> Current progress in research (like a QE presentation, or Phd thesis presentation) ~ about 15~20 mins </li>
+                            <li> Future research plans/goals.</li>
+                                        
+                                    </ol></p>
+                            </p>
+                            <p> Example from Hou Nana (Oct 2020) submitting this to her TAC panel for their endoresement. Link here <url href="https://www.dropbox.com/sh/twmboj63mpipr92/AADbaOfdhXbYlQ9grKJZmfFya?dl=0"><c>TAC HOU Nana (2020)</c></url></p>
+                            </subsection>
+
+
+
+
+
 
     <subsection xml:id="GraduateStudents_Responses">
         <title>Guideline for Responses to examiner and journal</title>
