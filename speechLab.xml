@@ -8,7 +8,7 @@
         <introduction>
             <p>The speech and language research group in SCSE was founded in 2007 by Chng Eng Siong and
             <url href="http://www.colips.org/~eleliha/"><c>Prof Li Haizhou</c></url> (now in CUHK-Shenzen, China). 
-            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://makerspace.aisingapore.org/do-ai/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
+            The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
             </p>
         </introduction>
 
@@ -18,12 +18,11 @@
             <ol label="1">     
                 <li> <c>ASR and LLM</c>
                 <ol label="a">     
+                    <li>Speech LLM research with AISG SeaLion team <url href="https://sea-lion.ai/"><c>Speech SeaLion</c></url>and StepFun team <url href="https://arxiv.org/abs/2507.16632"><c>Step Audio 2</c></url></li>
+                    <li>Tranfer Learning: from large trained LLM model for under-resourced languages (Indonesian-English, Malay-English)</li>
                     <li>Using LLM to improve ASR by generative error correction: see <url href="https://arxiv.org/pdf/2309.15701.pdf"><c>Hyporadise</c></url></li>
-                    <li>Code-switch multi-lingual speech recognition: see <url href="https://arxiv.org/abs/1811.09021"><c>Audio to Byte</c></url></li>
                     <li>Robust Large vocabulary continuous speech recognition: joint end-to-end ASR with speech enhancement module, wave2vec2, speaker extraction</li>
                     <li>Speech enhancement: speaker extraction, denoising, feature enhancement, overlapping speech extraction</li>
-                    <li>Faster decoding with end-to-end and real time android based decoders</li>
-                    <li>Tranfer Learning: from large trained acoustic model (16KHz) to  8KHz models via transfer learning</li>
                    </ol>
                 </li>
                 <li> <c>Classification</c>
