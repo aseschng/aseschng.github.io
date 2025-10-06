@@ -470,8 +470,7 @@ Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2
 
         <p>Typically we only host students who can work with us for 6 months or more in 2 sessions.
             Session 1: Jan-June, Session 2: Jul->Dec each year.
-            During covid (it will be remote), and if NTU allows student to come
-            to Singapore, we will prefer you to be physically in our lab. 
+            Since covid (it had been remote). 
             Currently we only host students who are doing this as part of their course sanctioned by 
             their school and its graded *so its not a personal arrangement*.
         </p>
@@ -491,8 +490,8 @@ Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2
 
         <p>
         <alert>Our current Research projects are:</alert></p>
-        <p>DNN and End-to-end approaches for speech audio processing and classification</p>
         <p><ol label="1">
+            <li>LMM for summarization and Inverse Text Normalization.</li>
             <li> Classification from Audio: Speaker profiling (age, height, weight, accent, emotion) classification, Audio Event classification (DCASE),
              Speaker diarization and overlapping speech detection</li>
              <li> Speech Enhancement and Audio processing:  Enhancing noisy speech to clean DNN approaches, Deep Fake Speech: Modifying audio eavefiles to target environment/speaker/ noise using GAN</li>
@@ -520,10 +519,11 @@ Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2
     <p><alert> Current and Past Interns: </alert></p>
 
     <p>   The list is incomplete, we began to the tradition of taking pictures with the students from India about 2017,  there were many others. 
-    The pictures here mainly are undergraduate students, and details included inside.  
+    The pictures here include CSC students, undergraduate students, and details included inside.  
     </p>
 
     <p><ol label="1">
+            <li><url href="https://www.dropbox.com/scl/fi/p8djti7gvbxk2mgywew0e/Visiting-Student_Intern-2025.pdf?rlkey=qifzvz2il71n9l2ix7exhyhne?dl=0"><c>2025 </c></url></li>
             <li><url href="https://www.dropbox.com/scl/fi/isftidn65ha7fhaqrisqm/2024_2025_Interns.pdf?rlkey=uoeg0eh6doyb2sno53rmxapce?dl=0"><c>2024 and 2025 June~Dec(fully remote)</c></url></li>
             <li><url href="https://www.dropbox.com/scl/fi/h8q31r9gw2ck3d9l3a87l/2023_June_Dec_Interns.pdf?rlkey=vlyi0kkfg9mf7mo41c514l6u9"><c>2023 June~Dec(fully remote)</c></url></li>
             <li><url href="https://www.dropbox.com/scl/fi/ix2zecra23egczjk83x43/Interns-Jan-June2023.pdf?rlkey=v1fddv3g0n5etibyqsbskndtc"><c>Some pictures of our group meetings with Interns from 2023(fully remote)</c></url></li>
