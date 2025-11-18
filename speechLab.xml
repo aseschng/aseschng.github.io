@@ -283,17 +283,6 @@
 
             <li><url href="https://www.linkedin.com/in/xiangyu-zhang-a0735b194/"><c>Zhang Xiangyu</c></url> (2023 June~, PhD student (UNSW, Australia), Depression classification</li>
 
-            <li><c>Chen Weiguang</c> (2022 June~, PhD student (Hunan University), Diarization using multi-channel approaches</li>
-           <li><url href="https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"><c>Yao Jixun</c></url> (2023 Oct~ Oct 2024, AISG NUS visitor), PhD student (Northwestern Poly, China), Speech Enhancement and TTS</li>
-               <li><url href="https://scholar.google.com/citations?user=GEVwy4sAAAAJ"><c>Le Yuquan</c></url> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), LLM for Legal</li>
-               <li><c>Luo Juan</c> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), Audio event detection and classification</li>
-
-               <li><url href="https://arxiv.org/abs/2305.10761"><c>Zhang Zizheng</c></url> (2023 June~ Jun 2024, AISG remote), Masters student (Peking University, China), Speech Separation, <url href="https://github.com/TzuchengChang/NASS"><c>github</c></url></li>
-               
-               <li><url href="https://openreview.net/profile?id=~Haorui_Zheng1"><c>Zheng Haorui</c></url> (2024 June~ , AISG remote), Masters student (Peking University, China), Speaker Diarization with Speech Separation</li>
-               
-
-                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
             </ol>
             </p></subsection>
 
@@ -434,8 +423,26 @@ Dialogue Generation and Code-Switching in LLMs (MSAI reg Aug 2024, Supervisor: C
     </subsection>
 
     <subsection xml:id="Past_MSAI_Students">
-    <title>Past MSAI Students and Other collaboration students</title>
+    <title>Past MSAI Students and Others (CSC) collaboration students</title>
     <p><ol label="1">
+
+
+            <li><c>Chen Weiguang</c> (2022 June~,2023 PhD student (Hunan University), Diarization using multi-channel approaches</li>
+
+           <li><url href="https://scholar.google.co.uk/citations?user=KjcXd6cAAAAJ"><c>Yao Jixun</c></url> (2023 Oct~ Oct 2024, AISG NUS visitor), PhD student (Northwestern Poly, China), Speech Enhancement and TTS</li>
+
+               <li><url href="https://scholar.google.com/citations?user=GEVwy4sAAAAJ"><c>Le Yuquan</c></url> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), LLM for Legal</li>
+
+               <li><c>Luo Juan</c> (2023 Oct~ Oct 2024, CSC visitor), PhD student (Hunan University, China), Audio event detection and classification</li>
+
+               <li><url href="https://arxiv.org/abs/2305.10761"><c>Zhang Zizheng</c></url> (2023 June~ Jun 2024, AISG remote), Masters student (Peking University, China), Speech Separation, <url href="https://github.com/TzuchengChang/NASS"><c>github</c></url></li>
+               
+               <li><url href="https://openreview.net/profile?id=~Haorui_Zheng1"><c>Zheng Haorui</c></url> (2024 June~ , AISG remote), Masters student (Peking University, China), Speaker Diarization with Speech Separation</li>
+               
+
+                <li><url href="https://github.com/fluide1022"><c>Bo Han</c></url> (2023 Oct ~Oct 2024, CSC visitor), PhD student Zhejiang Uni, China), Deep Fake TTS audio generation</li>
+
+
 
             <li><url href="https://www.linkedin.com/in/yanru-chen-2b38b8221/"><c>Chen Yanru</c></url> (2024 Jan~), Masters Data Science, Classification of Depression Syndrome by Deep Learning</li>
 
