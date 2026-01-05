@@ -67,11 +67,17 @@
     <p><alert>How to find me?</alert></p>
     <sidebyside widths = "60% 40%" valign="middle">
          <ul>
+
+<!--
              <li>       My office: Blk N4, 02c-96, Nanyang Avenue. College of Computing and Data Science(CCDS).
                 Nanyang Technological University,Singapore 639798 </li>
              <li> Map:  <url href="http://maps.ntu.edu.sg"><c>SCSE Block N4 MapLink</c></url></li>
+         -->
+        <li>       My tmp office (besides the HIVE) (2026): Blk S3, B2c-102, Nanyang Avenue. College of Computing and Data Science(CCDS).
+                Nanyang Technological University,Singapore 639798 </li>
+             <li> Map:  <url href="https://maps.ntu.edu.sg/?mazemap_share_url=https%3A%2F%2Fuse.mazemap.com%2F%3Futm_medium%3Dlongurl%23v%3D1%26config%3Dntu-sg%26zlevel%3D-2%26center%3D103.683204%2C1.344153%26zoom%3D18%26campusid%3D2123%26sharepoitype%3Dpoi%26sharepoi%3D1003253584"><c> Block S3 MapLink</c></url></li>         
          <li>   Q: <url href="https://www.ntu.edu.sg/life-at-ntu/visiting-ntu"><c>How to get to NTU?</c></url></li>
-          <li> Q: <url href="http://maps.ntu.edu.sg"><c>Nearest carpark to Blk N4 is Car Park F</c></url></li>
+          <li> Q: <url href="http://maps.ntu.edu.sg"><c>Nearest carpark to Blk S3 is Car Park Q</c></url></li>
         <li>Email: aseschng at ntu dot edu dot sg, </li>
         <li>Tel : +65-6790-6200, Fax: +65-6792-6559</li>
 
