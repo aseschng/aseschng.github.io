@@ -24,8 +24,7 @@
 
     <p>Heres a video in a graduation event thats funny and uplifting:
     <url href="https://www.facebook.com/share/v/1aCdR3yx9o/?mibextid=UalRPS"><c>Tim Minchin - Live To Learn, 9 life lessons</c>.</url>
-    Which lessons resonate with you?</p>
-    <p>To all reading this, wishing you all the very best in studies and life.</p>
+    To all reading this, wishing you all the very best in studies and life.</p>
 
     <subsection xml:id="WritingThesis">
         <title>Writing your QE/PhD Thesis and presenting PhD defence</title>
@@ -47,17 +46,21 @@
                 <c>Analysis of a paper</c></url>
             </p>
 
-        <p> Use ChatGPT to help IMPROVE your writing by having it check for coherence, spelling, etc 
-            (ENSURE ethical use of AI). See: 
+        <p> Use ChatGPT to help IMPROVE your writing by having it a) generate the questions for each chapter,section, and paragraphs, 
+            b) check for grammar, coherence, spelling,  (ENSURE ethical use of AI). See: 
         <url href="https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing"><c>ChatGPT Promots</c></url>
         as well as <url href="https://youtu.be/w-GiUY-DcJY"><c>YouTube: Epic ChatGPT Prompts (to help research writing)</c></url></p>
 
 
-        <p> Recently I found a website by UCL for scientific writing: its very good -
-            <url href="https://www.ucl.ac.uk/~uczlcfe/scientific%20comm.html"><c>Chris Fenwick's webpage in UCL </c></url></p>
+        <p> Recently I found some websites for scientific writing: they are very good -
+            <url href="https://www.ucl.ac.uk/~uczlcfe/scientific%20comm.html"><c>Chris Fenwick's webpage in UCL </c></url>,
+            <url href="https://cs.stanford.edu/people/widom/paper-writing.html#body"><c>webpage in Stanford </c></url>,
+            <url href="https://developers.google.com/tech-writing/overview"><c>Google's technical writing course  </c></url>,
+        </p>
 
 
-        <p> Aaron's Kwok (PhD, submitted 2025) github documenting his thesis writing journey: 
+
+        <p> My PhD student Aaron's Kwok (PhD, submitted 2025) github documenting his thesis writing journey: 
             <url href="https://github.com/cyaaronk/thesis_writing_tutorial"><c>Aaron's Tutorial for writing thesis</c></url></p>
 
         </introduction>
