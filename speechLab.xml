@@ -155,14 +155,8 @@
             <title>Staff</title>
             <p><ol label="1">
             <li><url href="https://www.linkedin.com/in/wei-rao-49382080/"><c>Dr Rao Wei</c></url>,senior research fellow (LLM) (joned April 2025~)</li>
-
-
             <li><url href="https://www.linkedin.com/in/hexin-liu-2a7a91212/?originalSubdomain=sg"><c>Dr Liu Hexin</c></url>,research fellow (LLM) (joned Oct 2023~)</li>
-            <li><url href="https://www.hieuthi.com/"><c>Dr Luong Hieu Thi</c></url>,research fellow (Deepfake) (joined Jan 2024~Dec 2025)</li>
-
             <li><url href="https://www.linkedin.com/in/lyvt1/"><c>Ly Vu Thi</c></url>,Full-stack and chatBot</li>
-
-            
             <li><url href="https://www.linkedin.com/in/tanmay-surana-118a79192/"><c>Tanmay Surana</c></url>, <c>NLP and Depression classification</c> (Jan 2024~)</li>
             <li><url href="https://sg.linkedin.com/in/lim-zhi-hao-025546115"><c>Lim Zhi Hao</c></url> Speaker verification and DNN</li>
             <li><url href="https://www.linkedin.com/in/kyaw-zin-tun-170b52122"><c>Kyaw Zin Tun (AISG-NTU)</c></url>, full-stack development</li>
@@ -177,23 +171,16 @@
     <title>Past Staff</title>
     <p><ol label="1">
 
+        <li><url href="https://www.hieuthi.com/"><c>Dr Luong Hieu Thi</c></url>,research fellow (Deepfake) (joined Jan 2024~Dec 2025)</li>
+
             <li><url href="https://sg.linkedin.com/in/ngaho"><c>Ho Thi Nga</c></url>, sentence unit detection and full-stack, backend. (May 2013~Jul 2024)</li>
-
-
             <li><url href="https://www.linkedin.com/in/nabilah-ismail-6b3aa0164"><c>Nabilah Ismail</c></url>, Corpus Development (joined Oct 2020~Oct2023</li>
-
             <li><url href="https://gemengtju.github.io/"><c>Dr Ge Meng</c></url>,research fellow NUS AISG (Speech recognition) (Oct 2019~Apr 2020, then 2023~2024 for Prof Morning project)</li>
-
-
             <li><url href="https://www.linkedin.com/in/RajendraPrasadSirigina9b691859/"><c>Dr Rajendra Prasad Sirigina</c></url>, Research Fellow, Time series, 2019 Feb-> 2021 June </li>
-
             <li><url href="https://www.linkedin.com/in/maduo-843771197/"><c>Ma Duo (AISG-NUS) </c></url>, LVCSR and classification, 2019-2021</li>
-
             <li><url href="https://www.linkedin.com/in/tungpv85/"><c>Dr Pham Van Tung</c></url>, Research Fellow, Speech recognition, end-to-end, keyword spotting, Jan 2012-2021 May</li>
-
             <li><url href="https://www.linkedin.com/in/haihua-xu-42757419"><c>Dr Xu Haihua</c></url>, Principal Research Fellow, Robust LVCSR, keyword spotting, Feb 2012-2021 March</li>
             <li><url href="https://www.linkedin.com/in/duc-mai-trung-1410/"><c>Mai Trung Duc</c></url>, full-stack and mobile app development, Mar 2019-Dec2021</li>
-
             <li><url href="https://www.linkedin.com/in/xuchenglin28"><c>Xu Chenglin</c></url>, PhD (2020), 
             Single Channel Multi-talker Speech Separation with Deep Learning</li>
             <li><url href="https://www.linkedin.com/in/zengzhiping/"><c>Zeng Zhiping</c></url>, LVCSR, March 2018- April 2020</li>
@@ -394,18 +381,12 @@ Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2
 
 
     <subsection xml:id="Past_MEng_Students">
-    <title>Past MEng Students</title>
+    <title>Past MEng</title>
     <p><ol label="1">
 
 <li><url href="https://www.linkedin.com/in/songting-liu-b0098b220/"><c>Liu Songting</c></url>, Streaming High Fidelity Voice Conversion Through ASR-Guided Discrete Representations.
  <url href="https://www.dropbox.com/scl/fi/dxz3j0om1ujqoygi9j4on/2026_MEng_LiuSongTing.pdf?rlkey=0a1y00itn56pcs8fdmtluulia&amp;dl=0"><c>Masters Thesis (2026)</c> </url>
-  (MEng reg Aug 2024, graduated Aprul 2026, Supervisor: Chng Eng Siong)</li> 
-
-<li><url href="https://www.linkedin.com/in/yunyi-ni-3a6885325/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F?originalSubdomain=sg"><c>Ni Yunyi</c></url>, VoiceForge: A Text-Driven Character Voice Generation System for Narrative Content Creation (MSAI reg Aug 2024, Supervisor: Chng Eng Siong)</li> 
-            <li><url href="https://www.linkedin.com/in/skandml/?originalSubdomain=sg"><c>Thirunavukarasu Suresh Sathya Krishnan</c></url>, Advancing Dialogue Systems: Synthetic
-Dialogue Generation and Code-Switching in LLMs (MSAI reg Aug 2024, Supervisor: Chng Eng Siong)</li> 
-
-        <li><url href="https://www.linkedin.com/in/adnan-azmat-496000153/?originalSubdomain=sg"><c>Azmat Adnan</c></url>,(MSAI Thesis, 2024) Robust Diarization</li>
+  (MEng reg Aug 2024, graduated Apr 2026, Supervisor: Chng Eng Siong)</li> 
 
         <li><url href="https://www.linkedin.com/in/tanmay-surana-118a79192/"><c>Tanmay Surana</c></url>, <c>Deep Learning-based Text Augmentation for Named Entity Recognition</c> (reg Aug 2021, MEng, completed Oct 2023)</li>
 
@@ -433,6 +414,12 @@ Dialogue Generation and Code-Switching in LLMs (MSAI reg Aug 2024, Supervisor: C
     <title>Past MSAI Students and Others (CSC) collaboration students</title>
     <p><ol label="1">
 
+            <li><url href="https://www.linkedin.com/in/skandml/?originalSubdomain=sg"><c>Thirunavukarasu Suresh Sathya Krishnan</c></url>, Advancing Dialogue Systems: Synthetic
+Dialogue Generation and Code-Switching in LLMs (MSAI reg Aug 2024, Supervisor: Chng Eng Siong)</li> 
+
+        <li><url href="https://www.linkedin.com/in/adnan-azmat-496000153/?originalSubdomain=sg"><c>Azmat Adnan</c></url>,(MSAI Thesis, 2024) Robust Diarization</li>
+
+<li><url href="https://www.linkedin.com/in/yunyi-ni-3a6885325/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F?originalSubdomain=sg"><c>Ni Yunyi</c></url>, VoiceForge: A Text-Driven Character Voice Generation System for Narrative Content Creation (MSAI reg Aug 2024, Supervisor: Chng Eng Siong)</li> 
 
             <li><c>Chen Weiguang</c> (2022 June~,2023 PhD student (Hunan University), Diarization using multi-channel approaches</li>
 
