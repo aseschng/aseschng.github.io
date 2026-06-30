@@ -6,11 +6,34 @@
         <title>Speech and Language laboratory</title>
 
         <introduction>
-            <p>The speech and language research group in SCSE was founded in 2007 by Chng Eng Siong and
+            <p>The speech and language research group in SCSE (now CCDS of NTU) was founded in 2007 by Chng Eng Siong and
             <url href="http://www.colips.org/~eleliha/"><c>Prof Li Haizhou</c></url> (now in CUHK-Shenzen, China). 
             The group is now situated within <url href="https://maps.ntu.edu.sg/#/ntu/"><c>HESL Lab - N4-B2b-05</c></url> in SCSE. We also founded the <url href="https://aisingapore.org/aiproducts/speech-lab/"><c>AISG Speech Lab</c></url> funded by NRF since 2018~current.
             </p>
         </introduction>
+
+        <subsection>
+            <title> AISG Speech Lab Startup: Abax.AI </title>
+            <p>We formed the startup  <url href="https://www.abax.ai/"><c>Abax.AI</c></url> from 100E project of AISG in 2022. 
+
+                Details of how this startup was formed can be found 
+                <url href="https://cde.nus.edu.sg/ece/project-4/"><c>here</c></url>.
+                Abax.AI offers speech transcription of code-mixing Singapore English+Manadrin+Malay solution as SDK and on-premise support. This solution is now deployed in the following agencies/companies</p>
+
+                <ol label="a">     
+                    <li>SCDF - project began 2018~ deployed live 2023-> current). Some news:
+                            <url href="https://www.straitstimes.com/singapore/scdf-turns-to-artificial-intelligence-to-help-emergency-call-dispatchers"><c>StraitsTimes-2018</c></url> and <url href="https://www.straitstimes.com/singapore/automated-system-transcribing-995-calls-may-also-recognise-singlish-shanmugam"><c>Demo to Minister Shanmugam-2019</c></url></li>
+
+                    <li>NKF - project began 2025 ~ live to current). NKF uses speech technology for case recording and analytics.
+                        <url href="https://www.linkedin.com/posts/nkfsg_thisisnkf-sginnovation-sgdialysis-activity-7392168883241033728-qHc3/"><c>news in Linkedin-2026</c></url>, we are Abax.AI (the company providing the speech recognition technology)</li>
+
+                    <li>Medical triaging (2024) POC. <url href="https://www.straitstimes.com/singapore/ai-masters-singlish-in-key-breakthrough-to-serve-healthcare-and-patients-needs"><c>StraitsTimes</c></url></li>
+                </ol>
+
+        </subsection>
+
+
+
 
         <subsection>
             <title>Research Focus</title>
