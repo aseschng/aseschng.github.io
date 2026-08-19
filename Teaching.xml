@@ -316,7 +316,7 @@
         <title>UnderGraduate Students</title>
 
         <subsection>
-        <title>FYP (Final Year Project) updates</title>
+        <title>Updates via Github for FYP/Ureca/Intern</title>
         <p>
                 For my FYP/Ureca/Intern students, pls do the followings:
 
@@ -324,7 +324,7 @@
                 <li> create a GitHub page to broadcast your work as well as to track progress. See this example (information expected):  
                     <url href="https://github.com/maxpicy/FYP"><c>Example of such gitHub page by FYP Max Wong (2026)</c></url>
                     <url href="https://github.com/JacksonSeowJX/midfreq-trading-bot"><c>Another Example FYP Seow (2026)</c></url></li>
-                <li> Note: you need to create a ~3 mins video update of your work every 2 weeks, and put into youTube, etc (and it can be private link) but it should be updated into your Gthub page FYP video link update. 
+                <li> Note: you need to create a ~3 mins video update of your work every 2 weeks, and put into youTube, etc (and it can be private link) but it should be updated into your Gthub page video link update. 
                     Name your videos by UpdateXX_month_year, where XX == increment number of report.
                 </li>
            </ol></p> 
