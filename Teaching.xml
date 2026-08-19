@@ -97,6 +97,10 @@
         <p> Examples of past PhD students praparation for their QE and thesis writing below:</p>
         <p><ol label="1">
 
+
+            <li> Fabian's tool for PhD thesis preparation:
+            <url href="https://github.com/FabianRitter/supervisor-agent"><c>Fabian's LLM skill for thesis checking</c></url></li>
+
             <li>  Aaron's Kwok (PhD, submitted 2025) github documenting his thesis writing journey: 
             <url href="https://github.com/cyaaronk/thesis_writing_tutorial"><c>Aaron's Tutorial for writing thesis</c></url></li>
 

@@ -244,8 +244,7 @@
             <li><url href="https://www.linkedin.com/in/davisl44622"><c>Li Haoyang</c></url>, Neural Text to Speech (PhD reg Aug 2023)</li>
 
             <li><url href="https://www.linkedin.com/in/ductuantruong/"><c>Tuan Truong Duc</c></url>, Robust Speaker verification and Deep Fake Detection under noisy and short duration scenario (reg Jan 2023, PhD)</li>
-            <li><url href="https://www.linkedin.com/in/fabian-ritter-gutierrez-9ab4317a/"><c>Fabian Ritter Gutierrez</c></url>,End2End ASR for Language Learning (PhD, reg Aug 2022, AStar scholar) (co-supervised with AStar: Nancy Chen. QE (2024):  <url href="https://github.com/FabianRitter/NTU_QE_PRESENTATION/tree/main"><c> Github of Thesis and Video</c></url></li>
-            <li><url href="https://www.linkedin.com/in/paniquex/"><c>Nikita Kuzmin</c></url>, Disentaglement for Speaker verification and privacy (PhD, reg Aug 2022, AStar scholar) (co-supervised with AStar: Lee Kong Aik. <url href="https://github.com/paniquex/PHD_QE_NTU"><c>QE: 2025 </c></url> </li>
+            
 
 
  
@@ -273,7 +272,7 @@
             <li><url href="https://wailywang.github.io/"><c>Wang Yuxi</c></url>, Voice Conversion  Audio Security: Classification of Audio for Deepfake and Audio Watermarking Presence (MEng reg Aug 2025, Supervisor: Chng Eng Siong)</li> 
 
                 <li><url href="https://coding-sharks.github.io/"><c>Hu Guoqiang</c></url>, LLM for Audio editing tasks  (MEng reg Aug 2025, Supervisor: Chng Eng Siong)</li> 
-                <li><url href="https://www.linkedin.com/in/%E4%BE%9D%E8%B1%AA-%E5%90%B4-0b5523325/"><c>Wu Yihao</c></url>, Robust diarization for large scale meeting scenario  (MEng reg Aug 2024, Supervisor: Chng Eng Siong)</li> 
+                
 
             
              </ol>
@@ -308,6 +307,15 @@
 
 
     <p><ol label="1" > 
+
+
+<li><url href="https://www.linkedin.com/in/fabian-ritter-gutierrez-9ab4317a/"><c>Fabian Ritter Gutierrez</c></url>,
+EFFICIENT SELF SUPERVISED REPRESENTATIONS FOR SPEECH AND MUSIC (PhD, reg Aug 2022, submitted Thesis Aug 2026, AStar scholar) (co-supervised with AStar: Nancy Chen. QE (2024):  <url href="https://github.com/FabianRitter/NTU_QE_PRESENTATION/tree/main"><c> Github of Thesis and Video</c></url>
+<url href="https://www.dropbox.com/scl/fi/hm1wlmvz4k3daqscyr94r/2026_Fabian_submitAug2026.pdf?rlkey=yrf2wlzikd4097mxmvisyzinf&amp;dl=0"><c>Thesis submitted (Aug 2026)</c></url></li>
+
+            <li><url href="https://www.linkedin.com/in/paniquex/"><c>Nikita Kuzmin</c></url>, TOWARDS STREAMING SPEAKER
+ANONYMIZATION: FROM OFFLINE SYSTEMS TO REAL-TIME FULL-DUPLEX SPEECH DIALOGUE MODELS (PhD, reg Aug 2022, submitted Thesis Aug 2026,  AStar scholar)
+<url href="https://www.dropbox.com/scl/fi/7n666p4c25dkald4ihsmg/2026Aug_NikitaThesis_Submission.pdf?rlkey=9bjxm0a8x5w4xz1su3s1wffif&amp;dl=0"><c>Thesis submitted (Aug 2026)</c></url> (co-supervised with AStar: Lee Kong Aik. <url href="https://github.com/paniquex/PHD_QE_NTU"><c>QE: 2025 </c></url> </li>
 
             
             <li><url href="https://www.linkedin.com/in/aaron-kwok-b1163b1b4/"><c>Kwok Chin Yuen</c></url>, Efficient Adaptation of Speech
@@ -408,6 +416,12 @@ Learning for Enhanced Noise Robustness in Downstream Applications (PhD reg Jan 2
     <subsection xml:id="Past_MEng_Students">
     <title>Past MEng</title>
     <p><ol label="1">
+
+
+<li><url href="https://www.linkedin.com/in/%E4%BE%9D%E8%B1%AA-%E5%90%B4-0b5523325/"><c>Wu Yihao</c></url>, Robust diarization for large scale meeting scenario,<url href="https://www.dropbox.com/scl/fi/ps0dbxwvn602mofo2fqms/2026_MEng_Wu-Yihao.pdf?rlkey=xm79jbkbup8i14upp3njkwt3r&amp;dl=0"><c>Thesis</c></url>  (MEng reg Aug 2024, Graduated: July 2026, Supervisor: Chng Eng Siong)</li> 
+
+
+
 
 <li><url href="https://www.linkedin.com/in/songting-liu-b0098b220/"><c>Liu Songting</c></url>, Streaming High Fidelity Voice Conversion Through ASR-Guided Discrete Representations.
  <url href="https://www.dropbox.com/scl/fi/dxz3j0om1ujqoygi9j4on/2026_MEng_LiuSongTing.pdf?rlkey=0a1y00itn56pcs8fdmtluulia&amp;dl=0"><c>Masters Thesis (2026)</c> </url>
