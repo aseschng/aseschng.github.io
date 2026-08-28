@@ -228,6 +228,11 @@
     <section xml:id="my_Students">
             <title>Current PhD and Graduate Students</title>
             <p><ol label="1">
+
+            <li><url href="https://www.linkedin.com/in/changsong-liu/"><c>Liu Changsong</c></url>, ROBUST AND EXPRESSIVE SPEECH GENERATION IN LOW-RESOURCE AND STREAMING SCENARIOS (PhD reg Aug 2026, Supervisor: Chng Eng Siong)</li> 
+            <li><url href=""><c>Wu Mengjun</c></url>, Towards Efficient and Robust Audio Understanding (PhD reg Aug 2026, Supervisor: Chng Eng Siong)</li> 
+
+
             <li><url href="https://scholar.google.com/citations?user=-ubODQ4AAAAJ"><c>Wu Donghang</c></url>, Full-Duplex Diaglog LLM (reg: Jan 2026)</li> 
 
             <li><url href="https://ziyang.tech/"><c>Ma Ziyang</c></url>, Advancing LLM research (PhD reg Aug 2022, Supervisor: Chng Eng Siong, Shanghai Jiao Tong: Chen Xie)</li> 
@@ -269,11 +274,17 @@
          <title>Current MEng and Masters Program Students</title>
          <p><ol label="1">
 
+                <li><url href="teams.public.onecdn.static.microsoft/evergreen-assets/safelinks/2/atp-safelinks.html"><c>Zhang Qianen</c></url>, Noise Robust SSL for Speech processing Applications (MEng reg Aug 2026, Supervisor: Chng Eng Siong)</li> 
+
+                <li><url href="linkedin.com/in/haisu-liu-33b1aa359"><c>Liu Haisu</c></url>, Emotion-Enhanced LLM for Spoken Dialogue Systems (MEng reg Aug 2026, Supervisor: Chng Eng Siong)</li> 
+
+
             <li><url href="https://wailywang.github.io/"><c>Wang Yuxi</c></url>, Voice Conversion  Audio Security: Classification of Audio for Deepfake and Audio Watermarking Presence (MEng reg Aug 2025, Supervisor: Chng Eng Siong)</li> 
 
                 <li><url href="https://coding-sharks.github.io/"><c>Hu Guoqiang</c></url>, LLM for Audio editing tasks  (MEng reg Aug 2025, Supervisor: Chng Eng Siong)</li> 
                 
 
+                
             
              </ol>
             </p></subsection>
