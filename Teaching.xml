@@ -498,11 +498,29 @@ securities of the live-stream ASR system deployment in the cloud <url href="http
     </section>
 
     <section>
+    <title>Linear Algebra for Computing (Year 1)</title>
+    <subsection>
+    <title>Resources for the course (Part 2)</title>
+            <p><ol label ="1">        
+                    <li>Video Recordings of my part (Part 2) for "Linear Algebra for Computing" - the chapters : Orthogonality, Least Squares, Complex Numbers+DFT, EigenValues and Vectors, SVD.  <url href="https://www.youtube.com/@linearalgebra1884"><c>LinearAlgebra@1884</c></url></li>
+            
+                    <li>How to use Claude to help generate quiz/exam questions for self-study.<url href="https://www.dropbox.com/scl/fi/eunuey7ro0cj6jfl10yks/suggestionsUsingClaudeToLearn.docx?rlkey=pwrx3mkchclq35pbx9ac7mqi0&amp;dl=0"><c>UsingClaudeDocument</c></url></li>
+            </ol>
+            </p>
+    </subsection>
+    </section>
+
+
+    <section>
         <title>Courses Taught</title>
             <p><ol label ="1">        
             <li>
+                Linear Algebra for Computing (Year 1) (Since 2020~current)
+            </li>
+
+            <li>
             <stack>        
-             CPE3007 - Digital Signal Processing (Since 2013): 
+             CPE3007 - Digital Signal Processing (Since 2013~2020): 
                 <ul>
                     <li>  Videos for this subject by me (2018): <url href="https://www.youtube.com/channel/UCxDhDzWlVRGIVQEg2BIl6xg/playlists"><c>YouTube link</c></url></li>
                     <li>  Some code samples for DSP python (2018) by me.<url href="https://github.com/aseschng/"><c>Github Link</c></url></li>
@@ -518,48 +536,6 @@ securities of the live-stream ASR system deployment in the cloud <url href="http
              </ol></p>
     </section>
 
-    <section>
-
-    <title>Some relevant E-Learning Videos</title>
-
-    <subsection>
-    <title>Some relevant (UG) E-Learning Videos</title>
-            <p><ol label ="1">        
-
-                <li>Essence of Linear Algebra by 3Blue1Brown (ug) an intutive understanding, 
-                    <url href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab"><c>Youtube</c></url></li>
-
-                <li>Petra Bonfert-Taylor's lectures (ug) Analysis of a Complex Kind
-                <url href="https://www.youtube.com/channel/UCaTLkDn9_1Wy5TRYfVULYUw/playlists"><c>Youtube</c></url></li>
-
-                <li>Tensors for Beginners by eigenchris (pg?ug), 
-                    <url href="https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG"><c>Youtube</c></url></li>
-
-
-                <li>Brunton's complex analysis crash course
-                    <url href="https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg"><c>Youtube</c></url></li>
-
-            </ol>
-        </p>
-    </subsection>
-
-    <subsection>
-    <title>Some relevant (PG) E-Learning Videos</title>
-            <p><ol label ="1">        
-                <li>Weighted Finite State Transducer - <url href="https://www.youtube.com/channel/UCsg4NhZjN7NZuJIjwea0njw"><c>YouTube</c></url> produced by <url href="https://www.linkedin.com/in/lim-zhi-hao-025546115/"><c>Lim Zhi Hao</c></url> in 2015 during his TL internship.</li>
-
-                <li>  Stephen Boyd, ECE263, Intro to Linear Dynamical System (pg?ug)
-                    <url href="https://www.youtube.com/watch?v=bf1264iFr-w"><c>YouTube</c></url></li>
-
-                <li> Ole Chirstensen lectures - Hilbert Space (pg) <url href="https://www.youtube.com/watch?v=jWkzBaJDSmY"><c>YouTube</c></url></li>
-
-                <li> Fredric Schuller's lectures - Hilbert Space and such (pg)
-                <url href="https://www.youtube.com/channel/UC6SaWe7xeOp31Vo8cQG1oXw/playlists"><c>YouTube</c></url></li>
-            </ol>
-        </p>
-    </subsection>
-
-    </section>
 
 
 </chapter>
