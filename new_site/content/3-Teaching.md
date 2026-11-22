@@ -119,37 +119,45 @@ A list of subjects you can and should pick up before starting your graduate scho
 
 ### Updates via Github for FYP/Ureca/Intern {: #subsection-25 }
 
-For my FYP/Ureca/Intern students, pls do the followings:
+For my current students, 
+pls do the followings when you begin your FYP/Ureca/Intern with me:
 
-1. create a GitHub page to broadcast your work as well as to track progress. See this example (information expected): [Example of such gitHub page by FYP Max Wong (2026)](https://github.com/maxpicy/FYP) [Another Example FYP Seow (2026)](https://github.com/JacksonSeowJX/midfreq-trading-bot)
-1. Note: you need to create a ~3 mins video update of your work every 2 weeks, and put into youTube, etc (and it can be private link) but it should be updated into your Gthub page video link update. Name your videos by UpdateXX_month_year, where XX == increment number of report.
+1. Create a GitHub page to broadcast your work as well as to track progress. See this example (information expected): [FYP: Max Wong (2026)](https://github.com/maxpicy/FYP),  [FYP: Seow (2026)](https://github.com/JacksonSeowJX/midfreq-trading-bot)
+1. Update every 2 weeks by video: create a ~3 mins video update of your work every 2 weeks. The video must be
+recorded with your voice/face on the top right (No machine generated).
+ Put the video into youTube with necessary  information to track.
+It can be private link - but it should be updated into your Gthub page video link update. Name your videos by UpdateXX_month_year, where XX == increment number of report.
+An agent will be used to keep track of updates.
 
 ### FYP (Final Year Project) presentation matters {: #subsection-26 }
 
-FYP presentation information: FYP presentation requires you to speak (without looking at a script) for about 20~23 minutes with additional 5 minutes of Q and A. The objective of the presentation is for the examiner to understand and appreciate what you have done. Students are expected to speak naturally about their work and engage actively with the examiner. Hence in the presentation you should
+FYP presentation information: FYP presentation requires you to speak (without looking at a script) for about 20~23 minutes with additional 5 minutes of Q and A. The objective of the presentation is for the examiner to understand and appreciate what you have done. Students are expected to 
+speak naturally (do not read from a script) about their work and engage actively with the examiner. Hence in the presentation you should
 
 1. Present an Overview of the problem – what is the problem, motivation to solve the problem, existing issues of the problem.
 1. Discuss Who/how has the problem been solved by others (lit survey). Restrict the discussion to information related to the focus and contributions of your project.
 1. Present how you have solved the problem – novelty, difficulty, creativity, etc.
 1. Show the results (demo, screen shot, experiment, table, video) of your work.
 1. Finally, present conclusions and future works.
-
-Some key idea of how you should organize the slides. The main idea is use lots of figures to tell the story, and the figure flows naturally by zooming in and out to see 'where' and what are we talking about without losing context, i.e, we always know where/what are being discussed. An Example below:
-
-1. Watch Marcus video: [2025 Marcus FYP Recorded Presentation](https://youtu.be/2gXojimM6zw) and study its style. Some comments below:
-1. See that in 0:17~32: he setup the overview of WHAT is his project about
-1. Using figure 0:36, he shows a birds eye view of his application (frontend, backend, database) and its relationship to the cloud (ASR service). This is important for the examiner to understand the big picture.
-1. The new picture 0:1:26 then zooms out showing the miniaturised application connecting to the cloud deployment for scalability
-1. now 0:1:45 zooms in again to see the varius blocks that he has to deal with for the project
-1. Have a demo video showcasing what happens - 0:02:09 ~ heavily edit it with highlight text to show whats happening (ensure font not too small, and have boxes to show whats important). Do not just capture the screen, ensure the focus of the examiner is on whats important to take note
-
-Note: For your slides: page 1 MUST have your name, FYP title, year of FYP, etc and all slides must have page number.
+1. Note: For your slides: page 1 MUST have your name, FYP title, year of FYP, etc and all slides must have page number.
 
 Note, the motive of the presentation is for the examiner to grade you, hence he/she has to appreciate your FYP, your work (difficulty, your contribution), and your technical ability, coding skill, knowledge, etc. You should have a lot of good things to say about the great things you have done, but remember you only have 20~25 minutes.
 
-To prepare, I suggest you make a video of your own presentation and watch it as rehearsal. See examples of previous students FYP presentation in the section below.
+### FYP Presentation slides - how to organize
 
-### FYP final report and interim report {: #subsection-27 }
+The main idea is use lots of figures to tell the story, and the figure flows naturally by zooming in and out to see 'where' and what are we talking about without losing context, i.e, we always know where/what are being discussed. An Example below:
+
+1. Watch Marcus video: [2025 Marcus FYP Recorded Presentation](https://youtu.be/2gXojimM6zw) and study its style. Some comments below:
+    1. See that in 0:17~32: he setup the overview of WHAT is his project about
+    1. Using figure 0:36, he shows a birds eye view of his application (frontend, backend, database) and its relationship to the cloud (ASR service). This is important for the examiner to understand the big picture.
+    1. The new picture 0:1:26 then zooms out showing the miniaturised application connecting to the cloud deployment for scalability
+    1. now 0:1:45 zooms in again to see the varius blocks that he has to deal with for the project
+    1. Have a demo video showcasing what happens - 0:02:09 ~ heavily edit it with highlight text to show whats happening (ensure font not too small, and have boxes to show whats important). Do not just capture the screen, ensure the focus of the examiner is on whats important to take note
+
+
+1. To prepare, I suggest you make a video of your own presentation and watch it as rehearsal. See examples of previous students FYP presentation in the section below.
+
+### FYP final report and interim report - requirements {: #subsection-27 }
 
 Pls write your report in Overleaf Latex.
 
@@ -167,7 +175,7 @@ See the advise for writing here: [WritingThesis](GraduateStudents.html#WritingTh
 
 ### Examples of past FYP reports, presentations, etc {: #subsection-28 }
 
-1. 2026 May FYP video example by SIH Jia Qi, repo of report,slides, etc[GitHub](https://github.com/sihjiaqi/ntu-fyp-asr-cicd.git), see style and coherence[Youtube](https://youtube.com/watch?v=JOnd_1Tmk1k?feature=youtu.be) [Report](https://www.dropbox.com/scl/fi/jvfmljsjp105ppiucvoy7/FYP_May2026_SihJiaQi.pdf?rlkey=k62ysqcfdz7k8zji80i9wkggd&dl=0), [Video Recording](https://youtu.be/obxLfOlkDys)
+1. 2026 May FYP video example by SIH Jia Qi, repo of report,slides, etc [GitHub](https://github.com/sihjiaqi/ntu-fyp-asr-cicd.git), see style and coherence [Youtube](https://youtube.com/watch?v=JOnd_1Tmk1k?feature=youtu.be) [Report](https://www.dropbox.com/scl/fi/jvfmljsjp105ppiucvoy7/FYP_May2026_SihJiaQi.pdf?rlkey=k62ysqcfdz7k8zji80i9wkggd&dl=0), [Video Recording](https://youtu.be/obxLfOlkDys)
 1. 2026 May example by REP Student group (4 pax) - nice presentation of group project - [Slides](https://www.dropbox.com/scl/fi/fdi8j38mkwwnqh3sriswe/RCP-Presentation_2025_BirdSound.pdf?rlkey=rsllrdr4j6osqgsfcpyhixmoa&dl=0)
 1. 2025 May example by Edmund Tey Li Zhang - nice presentation slides/video/Github, pls see style (for dev type of projects) - [Github](https://github.com/crockie/fyp)
 1. 2025 May example by Marcus Yeo - nice presentation slides/video/Github, pls see style (for dev type of projects) - [Github](https://github.com/marcusyeoyh/sgdecoding_fyp) [Report](https://www.dropbox.com/scl/fi/6wdoqs4tp2ayamphdsirj/Marcus-Yeo-FYP-Report-Final.pdf?rlkey=vywdpmfht4ep5pnauhwoybhwf&dl=0) [Slides](https://www.dropbox.com/scl/fi/dppso9ygcj3fmoxqo02h1/2025_UG_FYP_MacusYeoOral-Presentation-Slides-Final.pptx?rlkey=u9o91h4vfxef4kxnm3dpb6qbr&dl=0) [Video Recording](https://youtu.be/2gXojimM6zw)
@@ -193,7 +201,7 @@ See the advise for writing here: [WritingThesis](GraduateStudents.html#WritingTh
 1. Video Recordings of my part (Part 2) for "Linear Algebra for Computing" - the chapters : Orthogonality, Least Squares, Complex Numbers+DFT, EigenValues and Vectors, SVD. [LinearAlgebra@1884](https://www.youtube.com/@linearalgebra1884)
 1. How to use Claude to help generate quiz/exam questions for self-study.[UsingClaudeDocument](https://www.dropbox.com/scl/fi/eunuey7ro0cj6jfl10yks/suggestionsUsingClaudeToLearn.docx?rlkey=pwrx3mkchclq35pbx9ac7mqi0&dl=0)
 
-## Courses Taught {: #section-9 }
+## Courses I have Taught {: #section-9 }
 
 1. Linear Algebra for Computing (Year 1) (Since 2020~current)
 1. CPE3007 - Digital Signal Processing (Since 2013~2020):   Videos for this subject by me (2018): [YouTube link](https://www.youtube.com/channel/UCxDhDzWlVRGIVQEg2BIl6xg/playlists)  Some code samples for DSP python (2018) by me.[Github Link](https://github.com/aseschng/)
