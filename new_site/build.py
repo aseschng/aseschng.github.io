@@ -26,7 +26,8 @@ ROOT = Path(__file__).parent
 CONTENT, OUT = ROOT / "content", ROOT / "_site"
 TEMPLATE = (ROOT / "theme" / "page.html").read_text(encoding="utf-8")
 SITE_TITLE = "Chng Eng Siong"
-TODAY = dt.date.today().strftime("%d %B %Y")
+SGT = dt.timezone(dt.timedelta(hours=8), "SGT")   # Singapore time (GitHub's servers run on UTC)
+TODAY = dt.datetime.now(SGT).strftime("%d %B %Y, %H:%M SGT").lstrip("0")
 
 
 # ---------------------------------------------------------------- reading

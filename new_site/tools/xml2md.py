@@ -70,12 +70,19 @@ def lst(e, depth):
                 for sub in ch:
                     if sub.tag in ("ol", "ul"):
                         subs.append(lst(sub, depth + 1))
+                    elif sub.tag == "p":
+                        for inner in sub:
+                            if inner.tag in ("ol", "ul"):
+                                subs.append(lst(inner, depth + 1))
+                        text += " " + inline(ET.fromstring("<p/>")) if False else " " + ws(sub.text) + "".join(
+                            inline_el(i) + ws(i.tail) for i in sub if i.tag not in ("ol", "ul"))
                     else:
                         text += inline_el(sub)
                     text += ws(sub.tail)
             else:
                 text += inline_el(ch)
             text += ws(ch.tail)
+        text += ws(li.tail)                      # stray text written just after </li>
         lines.append(f"{pad}{'1.' if ordered else '-'} {text.strip()}")
         lines.extend(subs)
     return "\n".join(lines)
@@ -117,10 +124,15 @@ def blocks_of(els):
             continue
         buf = ws(ch.text)
         for sub in ch:
-            if sub.tag in ("ol", "ul"):
+            if sub.tag in ("ol", "ul", "p", "sidebyside", "image"):
                 if buf.strip():
                     out.append(buf.strip())
-                out.append(lst(sub, 0))
+                if sub.tag in ("ol", "ul"):
+                    out.append(lst(sub, 0))
+                elif sub.tag == "p":           # paragraph nested inside a paragraph
+                    out.append(blocks_of([sub]))
+                else:
+                    out.append(blocks(ET.Element("x")) if False else (inline_el(sub) if sub.tag == "image" else blocks_wrap(sub)))
                 buf = ""
             else:
                 buf += inline_el(sub)
@@ -128,6 +140,11 @@ def blocks_of(els):
         if buf.strip():
             out.append(buf.strip())
     return "\n\n".join(out)
+
+
+def blocks_wrap(el):
+    w = ET.Element("wrap"); w.append(el)
+    return blocks(w)
 
 
 def heading(e, level, xid):

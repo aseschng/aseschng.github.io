@@ -65,7 +65,14 @@ Examples of past PhD students praparation for their QE and thesis writing below:
 
 You will need to meet up with your TAC yearly. TAC members are there to help your progress in your PhD journey and to sign off the TAC report. Hence, for their evaluation, arrange for a meeting with them individually or together yearly. Depending on their availability/request, you can meet you physically to report, or just send them your slides as update, and/or record a 20~30 mins presentation for update as video for their verification.
 
-Your presentation to them should include:   Academic: Your current CGPA, subjects taken, to be taken, etc  Updated publications   Current progress in research (like a QE presentation, or Phd thesis presentation) ~ about 15~20 mins   Future research plans/goals.
+Your presentation to them should include:
+
+<!-- list: a -->
+
+1. Academic: Your current CGPA, subjects taken, to be taken, etc
+1. Updated publications
+1. Current progress in research (like a QE presentation, or Phd thesis presentation) ~ about 15~20 mins
+1. Future research plans/goals.
 
 Example from Hou Nana (Oct 2020) submitting this to her TAC panel for their endoresement. Link here [TAC HOU Nana (2020)](https://www.dropbox.com/sh/twmboj63mpipr92/AADbaOfdhXbYlQ9grKJZmfFya?dl=0)
 
@@ -102,7 +109,7 @@ Example from Hou Nana (Oct 2020) submitting this to her TAC panel for their endo
 1. Kristin Sainani - writing for the sciences [youtube link](https://www.youtube.com/watch?v=4xdond91JfU)
 1. Professor Simon Peyton Jones (Cambridge) - How to write a Great Research Paper [youtube Link](https://www.youtube.com/watch?v=VK51E3gHENc).
 1. Judy Swan (Princeton) - Scientific Writing [youtube Link](https://www.youtube.com/watch?v=jLPCdDp_LE0).
-1. Steve Easterbrook - [how thesis get written.](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf)
+1. Steve Easterbrook - [how thesis get written.](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf)\href{}{Youtube}
 
 ### Subjects, Software you should know {: #subsection-24 }
 
@@ -112,11 +119,29 @@ A list of subjects you can and should pick up before starting your graduate scho
 
 ### Updates via Github for FYP/Ureca/Intern {: #subsection-25 }
 
-For my FYP/Ureca/Intern students, pls do the followings:   create a GitHub page to broadcast your work as well as to track progress. See this example (information expected): [Example of such gitHub page by FYP Max Wong (2026)](https://github.com/maxpicy/FYP) [Another Example FYP Seow (2026)](https://github.com/JacksonSeowJX/midfreq-trading-bot)  Note: you need to create a ~3 mins video update of your work every 2 weeks, and put into youTube, etc (and it can be private link) but it should be updated into your Gthub page video link update. Name your videos by UpdateXX_month_year, where XX == increment number of report.
+For my FYP/Ureca/Intern students, pls do the followings:
+
+1. create a GitHub page to broadcast your work as well as to track progress. See this example (information expected): [Example of such gitHub page by FYP Max Wong (2026)](https://github.com/maxpicy/FYP) [Another Example FYP Seow (2026)](https://github.com/JacksonSeowJX/midfreq-trading-bot)
+1. Note: you need to create a ~3 mins video update of your work every 2 weeks, and put into youTube, etc (and it can be private link) but it should be updated into your Gthub page video link update. Name your videos by UpdateXX_month_year, where XX == increment number of report.
 
 ### FYP (Final Year Project) presentation matters {: #subsection-26 }
 
-FYP presentation information: FYP presentation requires you to speak (without looking at a script) for about 20~23 minutes with additional 5 minutes of Q and A. The objective of the presentation is for the examiner to understand and appreciate what you have done. Students are expected to speak naturally about their work and engage actively with the examiner. Hence in the presentation you should   Present an Overview of the problem – what is the problem, motivation to solve the problem, existing issues of the problem.  Discuss Who/how has the problem been solved by others (lit survey). Restrict the discussion to information related to the focus and contributions of your project.  Present how you have solved the problem – novelty, difficulty, creativity, etc.  Show the results (demo, screen shot, experiment, table, video) of your work.   Finally, present conclusions and future works.  Some key idea of how you should organize the slides. The main idea is use lots of figures to tell the story, and the figure flows naturally by zooming in and out to see 'where' and what are we talking about without losing context, i.e, we always know where/what are being discussed. An Example below:   Watch Marcus video: [2025 Marcus FYP Recorded Presentation](https://youtu.be/2gXojimM6zw) and study its style. Some comments below:  See that in 0:17~32: he setup the overview of WHAT is his project about   Using figure 0:36, he shows a birds eye view of his application (frontend, backend, database) and its relationship to the cloud (ASR service). This is important for the examiner to understand the big picture.   The new picture 0:1:26 then zooms out showing the miniaturised application connecting to the cloud deployment for scalability  now 0:1:45 zooms in again to see the varius blocks that he has to deal with for the project   Have a demo video showcasing what happens - 0:02:09 ~ heavily edit it with highlight text to show whats happening (ensure font not too small, and have boxes to show whats important). Do not just capture the screen, ensure the focus of the examiner is on whats important to take note
+FYP presentation information: FYP presentation requires you to speak (without looking at a script) for about 20~23 minutes with additional 5 minutes of Q and A. The objective of the presentation is for the examiner to understand and appreciate what you have done. Students are expected to speak naturally about their work and engage actively with the examiner. Hence in the presentation you should
+
+1. Present an Overview of the problem – what is the problem, motivation to solve the problem, existing issues of the problem.
+1. Discuss Who/how has the problem been solved by others (lit survey). Restrict the discussion to information related to the focus and contributions of your project.
+1. Present how you have solved the problem – novelty, difficulty, creativity, etc.
+1. Show the results (demo, screen shot, experiment, table, video) of your work.
+1. Finally, present conclusions and future works.
+
+Some key idea of how you should organize the slides. The main idea is use lots of figures to tell the story, and the figure flows naturally by zooming in and out to see 'where' and what are we talking about without losing context, i.e, we always know where/what are being discussed. An Example below:
+
+1. Watch Marcus video: [2025 Marcus FYP Recorded Presentation](https://youtu.be/2gXojimM6zw) and study its style. Some comments below:
+1. See that in 0:17~32: he setup the overview of WHAT is his project about
+1. Using figure 0:36, he shows a birds eye view of his application (frontend, backend, database) and its relationship to the cloud (ASR service). This is important for the examiner to understand the big picture.
+1. The new picture 0:1:26 then zooms out showing the miniaturised application connecting to the cloud deployment for scalability
+1. now 0:1:45 zooms in again to see the varius blocks that he has to deal with for the project
+1. Have a demo video showcasing what happens - 0:02:09 ~ heavily edit it with highlight text to show whats happening (ensure font not too small, and have boxes to show whats important). Do not just capture the screen, ensure the focus of the examiner is on whats important to take note
 
 Note: For your slides: page 1 MUST have your name, FYP title, year of FYP, etc and all slides must have page number.
 
