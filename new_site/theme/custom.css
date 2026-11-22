@@ -1,0 +1,5 @@
+/* Small additions on top of the standard PreTeXt stylesheets.
+   Put any of your own style changes here. */
+
+/* "Last updated" line at the bottom of the Contents sidebar */
+#sidebar-left .extras .updated { display: block; padding: 0.5em 10px; font-size: 0.8em; color: #666; }

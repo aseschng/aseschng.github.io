@@ -1,0 +1,39 @@
+# Builds new_site/ from Markdown and publishes it to GitHub Pages.
+# One-time setup: copy this file to .github/workflows/build-site.yml in the repository,
+# and set GitHub repo -> Settings -> Pages -> Source = "GitHub Actions".
+# After that, every push that changes new_site/ or images/ republishes the site.
+name: Build and publish website
+
+on:
+  workflow_dispatch:        # can also be run by hand from the Actions tab
+  push:
+    branches: [main, master]
+    paths: ["new_site/**", "images/**", ".github/workflows/build-site.yml"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install markdown pyyaml
+      - run: python new_site/build.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: new_site/_site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

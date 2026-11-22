@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>{{title}}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://pretextbook.org/js/lib/jquery.min.js"></script>
+<script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script>
+<script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script>
+<script src="https://pretextbook.org/js/0.13/pretext.js"></script>
+<script src="https://pretextbook.org/js/0.13/pretext_add_on.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/pretext.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/banner_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/toc_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/style_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/colors_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.31/setcolors.css" rel="stylesheet" type="text/css">
+<!-- your own tweaks go in theme/custom.css -->
+<link href="theme/custom.css?v={{version}}" rel="stylesheet" type="text/css">
+</head>
+<body class="mathbook-book has-toc has-sidebar-left">
+<a class="assistive" href="#content">Skip to main content</a>
+<header id="masthead" class="smallbuttons"><div class="banner"><div class="container">
+<a id="logo-link" href="https://www.ntu.edu.sg" target="_blank"><img src="images/ntu_img.png" alt="Logo image"></a><div class="title-container">
+<h1 class="heading"><a href="default.html"><span class="title">{{site_title}}</span></a></h1>
+<p class="byline"></p>
+</div>
+</div></div>
+<nav id="primary-navbar" class="navbar"><div class="container">
+<div class="navbar-top-buttons">
+<button class="sidebar-left-toggle-button button active" aria-label="Show or hide table of contents sidebar">Contents</button><div class="tree-nav toolbar toolbar-divisor-3">{{buttons_top}}</div>
+</div>
+<div class="navbar-bottom-buttons toolbar toolbar-divisor-4">
+<button class="sidebar-left-toggle-button button toolbar-item active">Contents</button>{{buttons_bottom}}
+</div>
+</div></nav></header><div class="page">
+<div id="sidebar-left" class="sidebar" role="navigation"><div class="sidebar-content">
+{{toc}}<div class="extras"><nav><span class="updated">Last updated {{updated}}</span></nav></div>
+</div></div>
+<main class="main"><div id="content" class="pretext-content">{{content}}</div></main>
+</div>
+</body>
+</html>
