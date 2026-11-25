@@ -2,7 +2,7 @@
 title: Introduction
 id: intro1
 ---
-
+  
 ::: sidebyside 85% 15%
 I joined NTU in 2003, and am currently Professor of Computer Science in the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Singapore. I am also Asst Dean (Innovation and Industry) for CCDS since Jan 2025, and a member of [Generative AI Lab (GRAIL) in CCDS.](https://www.ntu.edu.sg/computing/research/institutes-centres/grail/our-people)
   
