@@ -65,7 +65,8 @@ Text here (before the first ##) is the chapter introduction.
 ## Files
 
 - `build.py`: the generator
-- `theme/page.html`: page layout (same HTML structure as the old PreTeXt pages, using the same PreTeXt stylesheets from pretextbook.org)
+- `theme/page.html`: page layout (same HTML structure as the old PreTeXt pages)
+- `theme/ptx/`: local copies of the PreTeXt stylesheets, scripts and fonts. The site is fully self-contained and loads nothing from other websites. Never needs editing.
 - `theme/custom.css`: put any of your own style tweaks here
 - `tools/xml2md.py`: one-time converter used to migrate the old XML (kept for reference)
 - `build-site.workflow.yml`: GitHub Action that builds and publishes the site
