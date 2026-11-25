@@ -42,7 +42,9 @@ Lastly, some [pictures of the team and various bikes rode](https://www.dropbox.c
 ![](images/2017_sce_hor.jpg)
 :::
 
-Visited by [ClusterMap](https://clustrmaps.com/site/r77q)
+Visitors:
+
+{{visitor_map}}
 
 Last Updated: {{updated}}
 

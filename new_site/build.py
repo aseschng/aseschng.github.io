@@ -178,8 +178,15 @@ def build():
     chapters = read_chapters()
     counts = count_lists(chapters)
 
+    # visitor-map widget code (e.g. MapMyVisitors), kept in theme/visitor_map.html
+    vm_file = ROOT / "theme" / "visitor_map.html"
+    vm = re.sub(r"<!--.*?-->", "", vm_file.read_text(encoding="utf-8"), flags=re.S).strip() if vm_file.exists() else ""
+    visitor_map = f'<div class="visitor-map">{vm}</div>' if vm else ""
+
     def fill(s):
         s = re.sub(r"\{\{count:([\w-]+)\}\}", lambda m: str(counts.get(m.group(1), "?")), s)
+        s = re.sub(r"^\s*Visitors:\s*\n+\s*\{\{visitor_map\}\}", "\n\n{{visitor_map}}" if not visitor_map else "Visitors:\n\n{{visitor_map}}", s, flags=re.M)
+        s = s.replace("{{visitor_map}}", "\n\n" + visitor_map + "\n\n" if visitor_map else "")
         return s.replace("{{updated}}", TODAY)
 
     # list of pages in reading order: (file, title, up-file, content-html, active-id)
@@ -245,7 +252,7 @@ def build():
 
     images = ROOT / "images" if (ROOT / "images").exists() else ROOT.parent / "images"
     shutil.copytree(images, OUT / "images")
-    shutil.copytree(ROOT / "theme", OUT / "theme", ignore=shutil.ignore_patterns("page.html"))
+    shutil.copytree(ROOT / "theme", OUT / "theme", ignore=shutil.ignore_patterns("page.html", "visitor_map.html"))
     (OUT / ".nojekyll").write_text("")
 
 
