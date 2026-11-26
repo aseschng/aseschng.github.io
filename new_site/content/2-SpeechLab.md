@@ -72,23 +72,13 @@ Some of our previous works:
 
 ## Collaborators {: #my_collaborator }
 
-1. [A/Prof Lee KongAik](https://www.linkedin.com/in/kong-aik-lee-3b49a868), HK Poly Uni (Speaker Anonymisation, SV, DeepFake (2023~))
-1. [A/Prof Wu Zhizheng](https://drwuz.com/), CUHK (TTS, (2023~))
-1. [A/Prof Li Ming](https://faculty.dukekunshan.edu.cn/faculty_profiles/ming-li), Duke-Kunshan (Deep Fake, (2023~))
-1. [Prof Li Haizhou](https://sds.cuhk.edu.cn/en/teacher/498), CUHK and AISG Speech Lab (since 2008~)
+1. [Prof Chen Xie](https://www.cs.sjtu.edu.cn/en/jiaoshiml/chenxie.html), Shanghai JiaoTong University (since 2024~) - supervision of PhD student Ma Ziyang, and research.
+1. [Prof Li Haizhou](https://sds.cuhk.edu.cn/en/teacher/498), CUHK and AISG Speech Lab (since 2008~) - AISG Speech Lab
 1. [Prof Zhong Xionghu](https://scholar.google.com.sg/citations?user=V-ISRXwAAAAJ), Hunan University, China. Microphone Array DOA and diarization. (2019~)
 1. [Dr Ma Bin](https://www.linkedin.com/in/bin-ma-b278a44b/), Alibaba. Robust End-to-End Code switch ASR (2018~)
-1. [Prof Huang Hao](https://scholar.google.com/citations?user=gCxEFxIAAAAJ), Xinjiang University. PhD students exchange - Code switch ASR and classification (2018~)
-1. [Prof Xie Lei](http://www.nwpu-aslp.org/lxie/), Northwestern Polytechnic, Xian, China. PhD students exchange - ASR (2015~)
-1. [Prof Wang Longbiao](http://cic.tju.edu.cn/faculty/wanglongbiao/experiences.html), Tianjin University, China. PhD students exchange - Emotion recognition (2016~)
-1. [A/Prof Sun Linhui](https://www.researchgate.net/profile/Linhui-Sun-3), (Speech Enhancement (2022~))
+1. [Prof Huang Hao](https://scholar.google.com/citations?user=gCxEFxIAAAAJ), Xinjiang University. PhD students exchange - Code switch ASR and classification (2018~) - multiple student exchanges
+1. [Prof Xie Lei](http://www.nwpu-aslp.org/lxie/), Northwestern Polytechnic, Xian, China. PhD students exchange - ASR (2015~) - multiple CSC student exchanges
 
-### Past Collaborators {: #Past_collaborator }
-
-1. [Prof XI Wei](https://gr.xjtu.edu.cn/web/xiwei), Xian JiaoTong University, China. CSC PhD students exchange - self-supervised learning
-1. [Dr Raphael Banchs](https://www.linkedin.com/in/rafaelbanchs/), ChatBot.
-1. [Prof Lee Chin Hui](https://chl.ece.gatech.edu/), Robust ASR (~2008-2015)
-1. [Prof Tanja Schultz (~2008-2013)](https://www.uni-bremen.de/en/csl/team/staff/prof-dr-ing-tanja-schultz/), Code-switch ASR
 
 ## Staff {: #my_Staff }
 
@@ -103,27 +93,6 @@ Some of our previous works:
 1. [Nur Shahidah Binte Jamaludin](https://www.linkedin.com/in/nurshahidahj/), corpus development and linguistic support, (Sep 2021~)
 1. [Liu Changsong](https://www.linkedin.com/in/changsong-liu/),Project Officer (joned Aug 2024~)
 
-### Past Staff {: #Past_Staff }
-
-1. [Dr Luong Hieu Thi](https://www.hieuthi.com/),research fellow (Deepfake) (joined Jan 2024~Dec 2025)
-1. [Ho Thi Nga](https://sg.linkedin.com/in/ngaho), sentence unit detection and full-stack, backend. (May 2013~Jul 2024)
-1. [Nabilah Ismail](https://www.linkedin.com/in/nabilah-ismail-6b3aa0164), Corpus Development (joined Oct 2020~Oct2023
-1. [Dr Ge Meng](https://gemengtju.github.io/),research fellow NUS AISG (Speech recognition) (Oct 2019~Apr 2020, then 2023~2024 for Prof Morning project)
-1. [Dr Rajendra Prasad Sirigina](https://www.linkedin.com/in/RajendraPrasadSirigina9b691859/), Research Fellow, Time series, 2019 Feb-> 2021 June
-1. [Ma Duo (AISG-NUS)](https://www.linkedin.com/in/maduo-843771197/), LVCSR and classification, 2019-2021
-1. [Dr Pham Van Tung](https://www.linkedin.com/in/tungpv85/), Research Fellow, Speech recognition, end-to-end, keyword spotting, Jan 2012-2021 May
-1. [Dr Xu Haihua](https://www.linkedin.com/in/haihua-xu-42757419), Principal Research Fellow, Robust LVCSR, keyword spotting, Feb 2012-2021 March
-1. [Mai Trung Duc](https://www.linkedin.com/in/duc-mai-trung-1410/), full-stack and mobile app development, Mar 2019-Dec2021
-1. [Xu Chenglin](https://www.linkedin.com/in/xuchenglin28), PhD (2020), Single Channel Multi-talker Speech Separation with Deep Learning
-1. [Zeng Zhiping](https://www.linkedin.com/in/zengzhiping/), LVCSR, March 2018- April 2020
-1. [Ho Danyuan](https://www.linkedin.com/in/danyuan-ho-4a7312173/), corpus development and linguistic, May 2018-March 2020
-1. [Tian XiaoHai](https://www.linkedin.com/in/xhtian/), TTS and voice morphing, part-time PhD and Staff, 2013-2018. Now in NUS.
-1. [Rao Wei](https://www.linkedin.com/in/wei-rao-49382080), Speaker verification, 2015-2018, Now in NUS.
-1. [XiaoXiong](https://www.linkedin.com/in/xiong-xiao-0a6a9b29/), PhD Student 2004-2008, Staff 2008-2017, Now in Microsoft, Redmond - since Apr 2017
-1. [Benjamin Bigot](https://www.linkedin.com/in/benjamin-bigot-ab175291/), 2014-2016 - LVCSR for RR
-1. [Huang Guangpu](https://orcid.org/0000-0001-5880-7956), 2012-2015 - Articulatory Phonetics Features
-1. [Lyu Daucheng](https://www.linkedin.com/in/dau-cheng-lyu-48794916/), 2009-2013 - Code switch LVCSR
-1. [Zhao Shengkui](https://www.linkedin.com/in/shengkui-zhao-%EF%BC%88%E8%B5%B5%E8%83%9C%E5%A5%8E%EF%BC%89-74983b22/),2009-2010 - Microphone array and beamforming.
 
 ## Current PhD and Graduate Students {: #my_Students }
 
@@ -155,6 +124,42 @@ Every year, we will host graduate students from China. We have hosted students f
 
 1. [Yang Yuhang](https://arxiv.org/abs/2311.17382) (2023 June~, PhD student (Hunan University), China), LLM ASR
 1. [Zhang Xiangyu](https://www.linkedin.com/in/xiangyu-zhang-a0735b194/) (2023 June~, PhD student (UNSW, Australia), Depression classification
+
+
+### Past Collaborators {: #Past_collaborator }
+
+1. [Prof Wang Longbiao](http://cic.tju.edu.cn/faculty/wanglongbiao/experiences.html), Tianjin University, China. PhD students exchange - Emotion recognition (2016~2025) - exchange of CSC students
+1. [A/Prof Sun Linhui](https://www.researchgate.net/profile/Linhui-Sun-3), (Speech Enhancement (2022~2025)) - as visiting Prof in CCDS
+1. [A/Prof Li Ming](https://faculty.dukekunshan.edu.cn/faculty_profiles/ming-li), Duke-Kunshan (Deep Fake, (2023~2025)) - MEng Student to CCDS
+1. [A/Prof Wu Zhizheng](https://drwuz.com/), CUHK (TTS, (2023~2025)) - on TTS
+1. [A/Prof Lee KongAik](https://www.linkedin.com/in/kong-aik-lee-3b49a868), HK Poly Uni (Speaker Anonymisation, SV, DeepFake (2023~Nov2026)) - supervision of Tuan, Nikita
+1. [Prof XI Wei](https://gr.xjtu.edu.cn/web/xiwei), Xian JiaoTong University, China. CSC PhD students exchange - self-supervised learning
+1. [Dr Raphael Banchs](https://www.linkedin.com/in/rafaelbanchs/), ChatBot.
+1. [Prof Lee Chin Hui](https://chl.ece.gatech.edu/), Robust ASR (~2008-2015)
+1. [Prof Tanja Schultz (~2008-2013)](https://www.uni-bremen.de/en/csl/team/staff/prof-dr-ing-tanja-schultz/), Code-switch ASR
+
+### Past Staff {: #Past_Staff }
+
+1. [Dr Luong Hieu Thi](https://www.hieuthi.com/),research fellow (Deepfake) (joined Jan 2024~Dec 2025)
+1. [Ho Thi Nga](https://sg.linkedin.com/in/ngaho), sentence unit detection and full-stack, backend. (May 2013~Jul 2024)
+1. [Nabilah Ismail](https://www.linkedin.com/in/nabilah-ismail-6b3aa0164), Corpus Development (joined Oct 2020~Oct2023
+1. [Dr Ge Meng](https://gemengtju.github.io/),research fellow NUS AISG (Speech recognition) (Oct 2019~Apr 2020, then 2023~2024 for Prof Morning project)
+1. [Dr Rajendra Prasad Sirigina](https://www.linkedin.com/in/RajendraPrasadSirigina9b691859/), Research Fellow, Time series, 2019 Feb-> 2021 June
+1. [Ma Duo (AISG-NUS)](https://www.linkedin.com/in/maduo-843771197/), LVCSR and classification, 2019-2021
+1. [Dr Pham Van Tung](https://www.linkedin.com/in/tungpv85/), Research Fellow, Speech recognition, end-to-end, keyword spotting, Jan 2012-2021 May
+1. [Dr Xu Haihua](https://www.linkedin.com/in/haihua-xu-42757419), Principal Research Fellow, Robust LVCSR, keyword spotting, Feb 2012-2021 March
+1. [Mai Trung Duc](https://www.linkedin.com/in/duc-mai-trung-1410/), full-stack and mobile app development, Mar 2019-Dec2021
+1. [Xu Chenglin](https://www.linkedin.com/in/xuchenglin28), PhD (2020), Single Channel Multi-talker Speech Separation with Deep Learning
+1. [Zeng Zhiping](https://www.linkedin.com/in/zengzhiping/), LVCSR, March 2018- April 2020
+1. [Ho Danyuan](https://www.linkedin.com/in/danyuan-ho-4a7312173/), corpus development and linguistic, May 2018-March 2020
+1. [Tian XiaoHai](https://www.linkedin.com/in/xhtian/), TTS and voice morphing, part-time PhD and Staff, 2013-2018. Now in NUS.
+1. [Rao Wei](https://www.linkedin.com/in/wei-rao-49382080), Speaker verification, 2015-2018, Now in NUS.
+1. [XiaoXiong](https://www.linkedin.com/in/xiong-xiao-0a6a9b29/), PhD Student 2004-2008, Staff 2008-2017, Now in Microsoft, Redmond - since Apr 2017
+1. [Benjamin Bigot](https://www.linkedin.com/in/benjamin-bigot-ab175291/), 2014-2016 - LVCSR for RR
+1. [Huang Guangpu](https://orcid.org/0000-0001-5880-7956), 2012-2015 - Articulatory Phonetics Features
+1. [Lyu Daucheng](https://www.linkedin.com/in/dau-cheng-lyu-48794916/), 2009-2013 - Code switch LVCSR
+1. [Zhao Shengkui](https://www.linkedin.com/in/shengkui-zhao-%EF%BC%88%E8%B5%B5%E8%83%9C%E5%A5%8E%EF%BC%89-74983b22/),2009-2010 - Microphone array and beamforming.
+
 
 ### Past PhD Students {: #Past_PhD_Students data-count=past-phd }
 
