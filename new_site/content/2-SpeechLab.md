@@ -101,12 +101,12 @@ Some of our previous works:
 1. [Lim Zhi Hao](https://sg.linkedin.com/in/lim-zhi-hao-025546115) Speaker verification and DNN
 1. [Kyaw Zin Tun (AISG-NTU)](https://www.linkedin.com/in/kyaw-zin-tun-170b52122), full-stack development
 1. [Peng Yizhou (AISG-NUS)](https://www.linkedin.com/in/yizhou-peng-18425b202/?originalSubdomain=cn), speech research, in NUS AISG lab (Jan 2023~)
-1. [Azmat Adnan](https://www.linkedin.com/in/adnan-azmat-496000153/?originalSubdomain=sg),Research Associate (joned April 2025~)
 1. [Nur Shahidah Binte Jamaludin](https://www.linkedin.com/in/nurshahidahj/), corpus development and linguistic support, (Sep 2021~)
 1. [Liu Changsong](https://www.linkedin.com/in/changsong-liu/),Project Officer (joned Aug 2024~)
 
 ### Past Staff {: #Past_Staff }
 
+1. [Azmat Adnan](https://www.linkedin.com/in/adnan-azmat-496000153/?originalSubdomain=sg),Research Associate (joned April 2025~May 2026)
 1. [Dr Luong Hieu Thi](https://www.hieuthi.com/),research fellow (Deepfake) (joined Jan 2024~Dec 2025)
 1. [Ho Thi Nga](https://sg.linkedin.com/in/ngaho), sentence unit detection and full-stack, backend. (May 2013~Jul 2024)
 1. [Nabilah Ismail](https://www.linkedin.com/in/nabilah-ismail-6b3aa0164), Corpus Development (joined Oct 2020~Oct2023
